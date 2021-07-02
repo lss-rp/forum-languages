@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Georgian" rtl="0" author_name="frytZ" author_url="frytz@lss-rp.ge" version="1.2.0" long_version="10000" update_check="https://github.com/lss-rp/forum-languages">
+ <app key="core" version="">
+  <word key="__app_core" js="0">სისტემა</word>
+  <word key="__defart_personal_conversation" js="0">პირადი მიმოწერა</word>
+  <word key="__defart_member_status" js="0">სტატუსის განახლება</word>
+  <word key="menu_custom_item_link" js="0">სათაური</word>
+  <word key="menu_custom_menu_title" js="0">სათაური</word>
+  <word key="menu_item_1" js="0">დათვალიერება</word>
+  <word key="menu_item_2" js="0">აქტივობა</word>
+  <word key="menu_title_type" js="0">სათაური</word>
+  <word key="stream_all_content" js="0">ყველა მასალა</word>
+  <word key="stream_button_cancel" js="0">გაუქმება</word>
+  <word key="stream_classes_type_all" js="0">ყველა მასალა</word>
+  <word key="stream_club_select_all" js="0">ყველა მასალა</word>
+  <word key="stream_ownership_started" js="0">ჩემი შექმნილი კონტენტი</word>
+  <word key="stream_title_1" js="0">წაუკითხავი მასალა</word>
+  <word key="stream_title_2" js="0">ჩემი შექმნილი კონტენტი</word>
+  <word key="activity" js="0">აქტივობა</word>
+  <word key="all_activity_extra_stream" js="0">ყველა აქტივობაში ჩვენება</word>
+  <word key="all_activity_photo" js="0">როდესაც წევრი პროფილის სურათს ცვლის</word>
+  <word key="all_activity_clubs" js="0">როდესაც წევრი კლუბს ქმნის</word>
+  <word key="activity_member_joined" js="0">%s შემოუერთდა საზოგადოებას</word>
+  <word key="activity_member_followed" js="0">%s-მ(ა) გამოიწერა %s</word>
+  <word key="activity_member_updated_photo" js="0">%s პროფილის ფოტო შეიცვალა</word>
+  <word key="stream_blurb_all" js="0">ყველა მასალა</word>
+  <word key="rss_settings" js="0">პარამეტრები</word>
+  <word key="rss_name" js="0">სათაური</word>
+  <word key="editor_attach_drag" js="0">გადმოათრიეთ ფაილები აქ რომ მიამაგროთ, ან</word>
+  <word key="editor_attach_choose_drag" js="0">ფაილების არჩევა...</word>
+  <word key="editor_attach_choose_nodrag" js="0">დააჭირეთ რომ აირჩიოთ ფაილები</word>
+  <word key="editor_attach_other" js="0">სხვა მედიის არჩევა</word>
+  <word key="form_upload_dad" js="0">ჩაყარეთ თქვენი ფაილები აქ, ან</word>
+  <word key="form_upload_choose" js="0">ფაილების არჩევა...</word>
+  <word key="embed__fail_3" js="0">სტატუსი</word>
+  <word key="editor__core_Signatures" js="0">ხელმოწერები</word>
+  <word key="editor__core_Staffdirectory" js="0">პერსონალი</word>
+  <word key="editor__core_Announcement" js="0">განცხადებები</word>
+  <word key="menu__core_editor_settings" js="0">პარამეტრები</word>
+  <word key="uploaderr_unspecified" js="0">დაგვიკავშირდით ჩვენ დახმარებისთვის.</word>
+  <word key="community_home" js="0">მთავარი გვერდი</word>
+  <word key="userbar_notifications" js="0">შეტყობინებები</word>
+  <word key="userbar_messages" js="0">წერილები</word>
+  <word key="userbar_reports" js="0">გასაჩივრებული კონტენტი</word>
+  <word key="home" js="0">მთავარი</word>
+  <word key="sign_up" js="0">რეგისტრაცია</word>
+  <word key="sign_in" js="0">ავტორიზაცია</word>
+  <word key="dont_have_an_account" js="0">არ გაქვთ აქაუნთი?</word>
+  <word key="sign_in_short" js="0">ავტორიზაცია</word>
+  <word key="create_menu" js="0">შექმნა</word>
+  <word key="create_menu_title" js="0">ახალი მასალის შექმნა</word>
+  <word key="inbox" js="0">წერილები</word>
+  <word key="edit_account_settings" js="0">აქაუნთის პარამეტრების რედაქტირება</word>
+  <word key="settings_area" js="0">პარამეტრების ზონა</word>
+  <word key="other_settings" js="0">სხვა პარამეტრები</word>
+  <word key="menu_settings" js="0">აქაუნთის პარამეტრები</word>
+  <word key="menu_settings_title" js="0">პარამეტრები</word>
+  <word key="menu_profile" js="0">პროფილი</word>
+  <word key="menu_messages" js="0">წერილები</word>
+  <word key="menu_followed_content" js="0">მოწონებული ქონთენთი</word>
+  <word key="menu_manage_ignore" js="0">დაიგნორებული წევრები</word>
+  <word key="privacy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="view_privacy_policy" js="0">იხილეთ ჩვენი პირადულობის პოლიტიკა</word>
+  <word key="mark_site_read" js="0">ყველა მასალის წაკითხულად მონიშვნა</word>
+  <word key="mark_site_read_button" js="0">წაკითხულად მონიშვნა</word>
+  <word key="core_site_marked_as_read" js="0">საიტი წაკითხულად მოინიშნა</word>
+  <word key="browse" js="0">გაშლა</word>
+  <word key="view_this" js="0">მეტი ინფორმაცია &quot;%s&quot; შესახებ</word>
+  <word key="contact" js="0">ჩვენთან კონტაქტი</word>
+  <word key="contact_admin" js="0">ჩვენთან კონტაქტი</word>
+  <word key="member_post_count" js="0">{# [1:პოსტი][?:პოსტი]}</word>
+  <word key="cover_photo_add" js="0">სურათის ატვირთვა</word>
+  <word key="no_rows_in_table" js="0">მასალა ვერ მოიძებნა</word>
+  <word key="required" js="0">აუცილებელი</word>
+  <word key="joined" js="0">შემოუერთდა</word>
+  <word key="category_settings" js="0">კატეგორიების პარამეტრები</word>
+  <word key="read_more_about" js="0">წაიკითხე %s 'ს შესახებ</word>
+  <word key="reg_agreed_terms" js="0"><![CDATA[<strong>მე ვთანხმდები <a href='%s' data-ipsDialog data-ipsDialog-title='რეგისტრაციის პირობებს'>გამოყენების წესებს</a></strong>]]></word>
+  <word key="reg_confirm_email" js="0">გთხოვთ დაადასტუროთ თქვენი ელ. ფოსტა</word>
+  <word key="reg_confirm_email_desc" js="0"><![CDATA[<strong>%s</strong>-ზე გამოგიგზავნეთ მეილი. მასში მოცემულია ლინკი ვერიფიკაციისთვის.]]></word>
+  <word key="reg_confirm_email_must" js="0">ეს ეტაპი სავალდებულოა რეგისტრაციისას.</word>
+  <word key="reg_resend_email" js="0">თავიდან გამოგზავნა</word>
+  <word key="reg_change_email" js="0">ელ. ფოსტის შეცვლა</word>
+  <word key="reg_cancel" js="0">რეგისტრაციის გაუქმება</word>
+  <word key="reg_cancel_confirm" js="0">ნამდვილად გსურთ გააუქმოთ რეგისტრაიცა? ასე თქვენი ანგარიში წაიშლება.</word>
+  <word key="coppa_form_email" js="0">ელ. ფოსტა:</word>
+  <word key="coppa_form_phone" js="0">ტელეფონის ნომერი:</word>
+  <word key="coppa_form_sig" js="0">ხელმოწერა:</word>
+  <word key="coppa_form_privacy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="reg_admin_validation" js="0">ელოდება დადასტურებას</word>
+  <word key="reg_admin_validation_desc" js="0"><![CDATA[ანგარიშის რეგისტრაცია სახელმწიფო პორტალში უნდა დაადასტუროს ბორტის ადმინისტრატორმა.<br>მეილი გამოიგზავნება მითითებულ მისამართზე ( %s ), როცა რეგისტრაცია დაგიმოწმდებათ.]]></word>
+  <word key="existing_user" js="0">დარეგისტრირებული ხართ?</word>
+  <word key="email_registration_validate" js="0">გმადლობთ რეგისტრაციისთვის. დააჭირეთ ქვემოთ მოცემულ ღილაკს რეგისტრაციის დასასრულებლად და მეილის დასადასტურებლად.</word>
+  <word key="registration_validate_explain" js="0">დააჭირეთ ქვემოთ მოცემულ ღილაკს რომ დაასრულოთ რეგისტრაცია.</word>
+  <word key="request_password" js="0">პაროლის აღდგენა</word>
+  <word key="forgotten_password" js="0">პაროლის აღდგენა</word>
+  <word key="lost_pass_confirm" js="0"><![CDATA[თქვენი პაროლის რეინიტილიზაციის მოთხოვნა წარმატებითია. <br><br>შეამოწმეთ თქვენი იმეილი.]]></word>
+  <word key="lost_pass_too_soon" js="0">თქვენ უკვე მოითხოვეთ პაროლის აღსდგენის პროცესი, დაელოდეთ ცოტა ხანი. ასევე, შეამოწმეთ თქვენი &quot;Promotions&quot; და &quot;Spam&quot; პაპკები.</word>
+  <word key="reset_pass_instructions" js="0">გთხოვთ შეიყვანოთ თქვენი ახალი პაროლი.</word>
+  <word key="password_reset" js="0">პაროლის გადაყენება</word>
+  <word key="lost_pass_no_email" js="0">მოცემული მეილით ვერ ვიპოვეთ მომხმარებელი.</word>
+  <word key="mailsub__core_password_reset_forced" js="0">პაროლის გადაყენება სავალდებულოა</word>
+  <word key="offline_unavailable" js="0">საიტი მიუწვდომელია.</word>
+  <word key="offline_message_title" js="0">საიტი გათიშულია</word>
+  <word key="confirm" js="0">დადასტურება</word>
+  <word key="add" js="0">შექმნა</word>
+  <word key="edit" js="0">რედაქტირება</word>
+  <word key="delete_confirm" js="0">დარწმუნებული ხართ რომ გინდათ ამის წაშლა?</word>
+  <word key="cancel" js="0">გაუქმება</word>
+  <word key="sign_out" js="0">გასვლა</word>
+  <word key="username" js="0">მომხმარებლის სახელი</word>
+  <word key="ips_member_name" js="0">მომხმარებლის სახელი</word>
+  <word key="email_address" js="0">ელ. ფოსტა</word>
+  <word key="ips_address_mail" js="0">ელ. ფოსტა</word>
+  <word key="username_or_email" js="0">მომხმარებლის სახელი ან ელ. ფოსტა</word>
+  <word key="password" js="0">პაროლი</word>
+  <word key="remember_me" js="0">დამიმახსოვრე</word>
+  <word key="remember_me_desc" js="0">არ არის რეკომენდირებული გაზიარებულ კომპიუტერებისთვის</word>
+  <word key="signin_anonymous" js="0">ანონიმური ავტორიზაცია</word>
+  <word key="password_confirm" js="0">დაადასტურეთ პაროლი</word>
+  <word key="change_password" js="0">პაროლის შეცვლა</word>
+  <word key="password_hidden" js="0">დამალული</word>
+  <word key="change_email" js="0">ელ. ფოსტის შეცვლა</word>
+  <word key="login" js="0">ავტორიზაცია</word>
+  <word key="f_minutes" js="0">{# [1:წუთი][?:წუთი]}</word>
+  <word key="f_minutes_short" js="0">{# [1:წუთი][?:წუთი]}</word>
+  <word key="personal_conversations" js="0">წერილები</word>
+  <word key="personal_conversation_message_pl" js="0">წერილები</word>
+  <word key="personal_conversation_message_pl_lc" js="0">წერილები</word>
+  <word key="notifications" js="0">შეტყობინებები</word>
+  <word key="add_tags" js="0">დაამატე ნიშნული</word>
+  <word key="indefinitely" js="0">სამუდამო</word>
+  <word key="signature" js="0">ხელმოწერა</word>
+  <word key="spam_flag" js="0">სპამერად მონიშვნა</word>
+  <word key="spam_unflag" js="0">სპამერად წაშლა</word>
+  <word key="adjust_ban" js="0">ბანის კორექტირება</word>
+  <word key="basic_settings" js="0">ზოგადი პარამეტრები</word>
+  <word key="advanced_settings" js="0">გაფართოებული პარამეტრები</word>
+  <word key="acplogs__general_settings" js="0">განაახლა ზოგადი პარამეტრები</word>
+  <word key="message" js="0">წერილი</word>
+  <word key="guest_email" js="0">თქვენი ელ. ფოსტა</word>
+  <word key="captcha_field" js="0">უსაფრთხოების შემოწმება</word>
+  <word key="address_line" js="0">მისამართის ხაზი</word>
+  <word key="city" js="0">ქალაქი</word>
+  <word key="approve" js="0">დადასტურება</word>
+  <word key="quote" js="0">ციტირება</word>
+  <word key="settings" js="0">პარამეტრები</word>
+  <word key="filter_by" js="0">გაფილტვრა</word>
+  <word key="submit_reply" js="0">პასუხის განთავსება</word>
+  <word key="_comment_placeholder" js="0">კომენტარის დამატება...</word>
+  <word key="date_started" js="0">დაიპოსტა %s </word>
+  <word key="teaser_signin" js="0">ავტორიზაცია</word>
+  <word key="teaser_signin_button" js="0">ავტორიზაცია ეხლავე</word>
+  <word key="moderation_history" js="0">მოდერაციის ისტორია</word>
+  <word key="_date_ago_c" js="0">%s წინ </word>
+  <word key="_date_ago" js="0">%s წინ </word>
+  <word key="_date_just_now_c" js="0">ახლა</word>
+  <word key="_date_just_now" js="0">ახლა</word>
+  <word key="_date_day_and_month" js="0">{!1#[1:იანვარი][2:თებერვალი][3:მარტი][4:აპრილი][5:მაისი][6:ივნისი][7:ივლისი][8:აგვისტო][9:სექტემბერი][10:ოქტომბერი][11:ნოემბერი][12:დეკემბერი]} {0#}</word>
+  <word key="_date_this_year_long" js="0">{!1#[1:იანვარი][2:თებერვალი][3:მარტი][4:აპრილი][5:მაისი][6:ივნისი][7:ივლისი][8:აგვისტო][9:სექტემბერი][10:ოქტომბერი][11:ნოემბერი][12:დეკემბერი]} {0#}</word>
+  <word key="_date_last_year_long" js="0">{!1#[1:იანვარი][2:თებერვალი][3:მარტი][4:აპრილი][5:მაისი][6:ივნისი][7:ივლისი][8:აგვისტო][9:სექტემბერი][10:ოქტომბერი][11:ნოემბერი][12:დეკემბერი]} {0#}, %s</word>
+  <word key="mark_as" js="0">მონიშვნა როგორც</word>
+  <word key="date_replied" js="0">დაიპოსტა %s </word>
+  <word key="revoke" js="0">მოხსნა</word>
+  <word key="add_ignore" js="0">მომხმარებლის იგნორირება</word>
+  <word key="follow_member" js="0">გამოწერა</word>
+  <word key="date" js="0">თარიღი</word>
+  <word key="num_views" js="0">{!# [1:ნახვა][?:ნახვა]}</word>
+  <word key="num_views_with_number" js="0">{# [1:ნახვა][?:ნახვა]}</word>
+  <word key="content" js="0">მასალა</word>
+  <word key="action" js="0">მოქმედება</word>
+  <word key="add_message" js="0">მესიჯის დამატება</word>
+  <word key="message_type_warning" js="0">გაფრთხილება</word>
+  <word key="error_title" js="0">ბოდიშს ვიხდით, შეცდომა მოხდა</word>
+  <word key="401_error_title" js="0">დაფიქსირდა შეცდომა!</word>
+  <word key="403_error_title" js="0">თქვენ არ გაქვთ შესაბამისი წვდომა.</word>
+  <word key="404_error_title" js="0">მასალა ვერ მოიძებნა!</word>
+  <word key="no_module_permission" js="0">ეს გვერდი არ არის ხელმისაწვდომი თქვენი აქაუნთისთვის.</word>
+  <word key="no_module_permission_admin" js="0">ეს გვერდი არ არის ხელმისაწვდომი თქვენი აქაუნთისთვის.</word>
+  <word key="denied_oauth" js="0">თქვენ უნდა დაეთანხმოთ თქვენი პროფილის გაზიარების უფლებას თუ გინდათ ამ სერვისით სარგებლობა.</word>
+  <word key="login_err_no_account" js="0">შეყვანილი სახელი ან მეილი არასწორია. დარწმუნდით რომ გათიშულია CAPS LOCK.</word>
+  <word key="login_err_bad_password" js="0">შეყვანილი პაროლი არასწორია. დარწმუნდით რომ გათიშულია CAPS LOCK.</word>
+  <word key="login_bad_username_or_password" js="0">შეყვანილი სახელი, მეილი ან პაროლი არასწორია. დარწმუნდით რომ გათიშულია CAPS LOCK.</word>
+  <word key="reauthenticate_password_blurb2" js="0">თავიდან შეიყვანეთ თქვენი პაროლი:</word>
+  <word key="node_error_no_perm" js="0">თქვენ არ გაქვთ უფლება ნახოთ ეს მასალა.</word>
+  <word key="form_password_confirm" js="0">პაროლები არ ემთხვევა.</word>
+  <word key="admincp_home" js="0">მთავარი</word>
+  <word key="upgrade_login" js="0">ავტორიზაცია</word>
+  <word key="dev_settings" js="0">პარამეტრები</word>
+  <word key="dev_widget_title" js="0">სათაური</word>
+  <word key="app_view_details" js="0">დეტალების ნახვა</word>
+  <word key="add_app_version_ph" js="0">ვერსიის ნომერი</word>
+  <word key="app_versions" js="0">აპლიკაციის ვერსია</word>
+  <word key="login_live_secret" js="0">პაროლი</word>
+  <word key="ldap_server_pass" js="0">სერვერის პაროლი</word>
+  <word key="acplogs__logout_force" js="0">აიძულა ყველა მომხმარებელს ანგარიშიდან გასვლა</word>
+  <word key="login_settings" js="0">ავტორიზაცია</word>
+  <word key="registration_settings" js="0">რეგისტრაცია</word>
+  <word key="acplogs__login_settings" js="0">დაარედაქტირა შესვლის პარამეტრები</word>
+  <word key="acplogs__account_management_settings" js="0">დაარედაქტირა ანგარიშის მენეჯმენტის პარამეტრები</word>
+  <word key="login_method_basic_settings" js="0">ზოგადი პარამეტრები</word>
+  <word key="account_management_settings" js="0">ანგარიშების მენეჯმენტი</word>
+  <word key="account_management_email_pass" js="0">მეილის და პაროლის ცვლილებები</word>
+  <word key="members_filter_banned" js="0">დაბლოკილი(ა)</word>
+  <word key="members_name" js="0">მომხმარებლის სახელი</word>
+  <word key="members_email" js="0">ელ. ფოსტა</word>
+  <word key="members_joined" js="0">შემოუერთდა</word>
+  <word key="members_last_visit" js="0">ბოლო შემოსვლა</word>
+  <word key="members_member_posts" js="0">მასალის რაოდენობა</word>
+  <word key="member_warnings" js="0">გაფრთხილების ქულა</word>
+  <word key="member_photo_upload" js="0">სურათის ატვირთვა</word>
+  <word key="member__core_Notifications" js="0">შეტყობინებები</word>
+  <word key="member_notifications_email" js="0">იმეილი</word>
+  <word key="view_sigs" js="0">გაჩვენოთ ხელმოწერები?</word>
+  <word key="view_sigs_desc" js="0">ასე ხალხის მასალასთან ერთად გამოისახება მათი ხელმოწერები</word>
+  <word key="members_disable_pm" js="0">შეუძლია წერილების გაგზავნა და მიღება?</word>
+  <word key="member_joined" js="0">შემოუერთდა %s</word>
+  <word key="account_unlocked" js="0">ანგარიშს ბლოკი აეხსნა.</word>
+  <word key="account_flagged" js="0">სპამერად მონიშნულია.</word>
+  <word key="account_unflagged" js="0">მოხსნილია შესაძლო სპამერებიდან.</word>
+  <word key="account_approved" js="0">ანგარიში დადასტურებულია.</word>
+  <word key="account_banned" js="0">ანგარიში დაბლოკილია.</word>
+  <word key="members_posts" js="0">მასალის რაოდენობა</word>
+  <word key="import_passwords" js="0">პაროლი</word>
+  <word key="import_name_too_long" js="0">მომხმარებლის სახელი %s ძალიან გრძელია.</word>
+  <word key="ucp_devices" js="0">ბოლოს გამოყენებული მოწყობილობები</word>
+  <word key="current_device" js="0">ამჟამინდელი მოწყობილობა</word>
+  <word key="device_last_loggedin" js="0">ბოლო შესვლა:</word>
+  <word key="device_management_info" js="0">მოცემულია ბოლო 90 დღის მოწყობილობანი.</word>
+  <word key="device_last_logins" js="0">ბოლო შემოსვლები</word>
+  <word key="new_device_email_footer" js="0">თუ ეს თქვენ იყავით, დააიგნორეთ ეს წერილი. სხვა შემთხვევაში, სასწრაფოდ დაიცავით თქვენი ანგარიში პაროლის შეცვლით და ამჟამად შემოსული მოწყობილობების შემოწმებით ფორუმის აქაუნტის პარამეტრებიდან.</word>
+  <word key="device_list_secure_account" js="0">ხედავთ რომელიმე ამოუცნობს? თუ კი - დაუყოვნებლივ დააჭირეთ აქ.</word>
+  <word key="secure_account_mfa_revise" js="0">თქვენი ანგარიშის უსაფრთხოებისთვის, ზოგჯერ შეიძლება მოგთხოვოთ თქვენი ვინაობის დადასტურება. ეს იმიტომ რომ, პაროლის გატეხვის შემთხვევაშიც, თქვენი აქაუნტი იყოს უსაფრთხოდ.</word>
+  <word key="mailsub__core_new_device" js="0">ახალი მოწყობილობის შესვლა</word>
+  <word key="disable_automatic_login" js="0">გამორთეთ ავტომატურად შესვლა</word>
+  <word key="edit_username" js="0">დაარედაქტირეთ მომხმარებლის სახელი</word>
+  <word key="edit_email_address" js="0">ელ. ფოსტის რედაქტირება</word>
+  <word key="account_actions" js="0">ანგარიშის მოქმედებები</word>
+  <word key="account_banned_perm" js="0">მომხმარებელს დაედო სამუდამო ბანი.</word>
+  <word key="account_flagged_as_spammer_title" js="0">მონიშნული სპამერად</word>
+  <word key="account_locked_title" js="0">ანგარიში დაბლოკილია</word>
+  <word key="account_locked_logins" js="0">ანგარიში დაბლოკილია ბევრი წარუმატებელი შესვლის მცდელობის გამო.</word>
+  <word key="account_locked_2fa" js="0">ანგარიში დაბლოკილია 2FA გაუვლელობის გამო.</word>
+  <word key="edit_password" js="0">პაროლის რედაქტირება</word>
+  <word key="set_password" js="0">პაროლის დაყენება</word>
+  <word key="active_account_integrations" js="0">აქტიური ანგარიშის ინტეგრაციები</word>
+  <word key="admin_disable_messenger" js="0">მესინჯერის გათიშვა</word>
+  <word key="admin_disable_messenger_confirm" js="0">შეეძლოს ჩართვა?</word>
+  <word key="admin_enable_messenger" js="0">მესინჯერის ჩართვა</word>
+  <word key="member_has_active_subscription" js="0">მიმდინარე პაკეტი</word>
+  <word key="ipAddresses__core_Dnames" js="0">მომხმარებლის სახელის ცვლილებები</word>
+  <word key="ip_username" js="0">მომხმარებლის სახელი</word>
+  <word key="dname_member_id" js="0">მომხმარებელი</word>
+  <word key="notifications__core_Content" js="0">მთავარი</word>
+  <word key="notifications__core_Profile" js="0">პროფილი</word>
+  <word key="notifications__warning" js="0">მე ვიღებ გაფრთხილებას</word>
+  <word key="notifications__core_Moderation_warning_mods" js="0">გაფრთხილებები</word>
+  <word key="acplog__notifications_edited" js="0">დაარედაქტირა შეტყობინებები</word>
+  <word key="notification_options" js="0">შეტყობინების პარამეტრები</word>
+  <word key="options" js="0">პარამეტრები</word>
+  <word key="notification__new_mention" js="0">{!#[?:%s დაგთაგათ]} %s: %s</word>
+  <word key="notification__new_react" js="0">{!#[?:%s ირეაგირა]} %s</word>
+  <word key="see_all_notifications" js="0">ყველა შეტყობინების ნახვა</word>
+  <word key="mailsub__core_notification_best_answer" js="0">თქვენი პოსტი მოინიშნა როგორც საუკეთესო პასუხი</word>
+  <word key="mailsub__core_contact_form" js="0">მომხმარებლის შეტყობინება Contact Us-დან.</word>
+  <word key="mailsub__core_email_change" js="0">გთხოვთ დაადასტუროთ თქვენი ელ. ფოსტის ცვლილება</word>
+  <word key="mailsub__core_lost_password_init" js="0">პაროლის აღდგენა</word>
+  <word key="mailsub__core_notification_mention" js="0"><![CDATA[თქვენ მოინიშნეთ თემაში: {$content->indefiniteArticle( $email->language )} {$content->author()->name|raw}-ს მიერ]]></word>
+  <word key="mailsub__core_notification_new_private_message" js="0"><![CDATA[{$message->author()->name|raw}-მა გამოგიგზავნათ წერილი]]></word>
+  <word key="mailsub__core_notification_profile_comment" js="0">ახალი კომენტარი თქვენს პროფილზე</word>
+  <word key="mailsub__core_notification_quote" js="0"><![CDATA[{$comment->author()->name|raw}-მა მოახდინა თქვენი პოსტის ციტირება]]></word>
+  <word key="mailsub__core_notification_warning_mods" js="0">მომხმარებელს მიეცა გაფრთხილება</word>
+  <word key="mailsub__core_registration_complete" js="0">თქვენ დაასრულეთ რეგისტრაცია.</word>
+  <word key="mailsub__core_registration_validate" js="0">თქვენ უნდა დაადასტუროთ თქვენი ანგარიში გასაგრძელებლად</word>
+  <word key="mailsub__core_warning" js="0">თქვენ მიიღეთ გაფრთხილება მოდერატორისგან</word>
+  <word key="mailsub__core_notification_new_likes" js="0"><![CDATA[ვიღაცას მოეწონა {$comment->indefiniteArticle( $email->language )}]]></word>
+  <word key="mailsub__core_notification_new_react" js="0"><![CDATA[ვიღაცამ რეაქცია გამოხატა {$comment->indefiniteArticle( $email->language )}-ზე]]></word>
+  <word key="mailsub__core_notification_member_follow" js="0"><![CDATA[{$member->name|raw}-მა გამოიწერა თქვენი ფორუმის პროფილი!]]></word>
+  <word key="mailsub__core_notification_private_message_added" js="0">თქვენ დაგამატეს წერილების ჩათში</word>
+  <word key="follow_type_none" js="0">არ გამომიგზავნოთ შეტყობინებები</word>
+  <word key="follow_freq_none" js="0">არ არის შეტყობინებები</word>
+  <word key="acpgroups_word_custom" js="0">ჯგუფის სახელი</word>
+  <word key="acpgroups_members" js="0">წევრები</word>
+  <word key="group_profiles" js="0">პროფილები</word>
+  <word key="g_edit_profile" js="0">შეუძლია პროფილის ინფორმაციის რედაქტირება?</word>
+  <word key="group_signatures" js="0">ხელმოწერები</word>
+  <word key="r__leaders" js="0">პერსონალი</word>
+  <word key="menu__core_staff_directory" js="0">პერსონალი</word>
+  <word key="staff_directory" js="0">პერსონალი</word>
+  <word key="staff_group_title" js="0">სათაური</word>
+  <word key="leader_use_custom_title" js="0">სათაური</word>
+  <word key="staff" js="0">პერსონალი</word>
+  <word key="staff_add_group" js="0">კატეგორიის შექმნა</word>
+  <word key="member_ranks_word_custom" js="0">სათაური</word>
+  <word key="bulkmail_mail_subject" js="0">თემა</word>
+  <word key="bulkmail__main" js="0">მეილის დეტალები</word>
+  <word key="bmf_members_groups" js="0">ჯგუფები</word>
+  <word key="bmf_members_last_visit" js="0">ბოლოს ეწვია</word>
+  <word key="mf_content_count" js="0">მასალის რაოდენობა</word>
+  <word key="bm_send_overview" js="0">დეტალები</word>
+  <word key="email_greeting_member" js="0">მოგესალმებით %s,</word>
+  <word key="email_privacy_policy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="email_privacy_policy_plain" js="0">პირადულობის პოლიტიკა:</word>
+  <word key="email_view_other_profile" js="0">%s' პროფილის ნახვა</word>
+  <word key="email_new_email" js="0">ახალი ელ. ფოსტა</word>
+  <word key="email_old_email" js="0">ძველი ელ. ფოსტა</word>
+  <word key="email_reg_complete" js="0">მოგესალმებით %s-ზე.</word>
+  <word key="email_reg_complete_pass" js="0">თქვენ ახლა შეგიძლიათ შეხვიდეთ პაროლით.</word>
+  <word key="email_lost_pass" js="0">იმისთვის რომ თქვენი პაროლი აღვადგინოთ ჩვენ უნდა დავრწმუნდეთ რომ ნამდვილად თქვენ მოგითხოვიათ აღსდგენა - დააჭირეთ ლინკს დაბლა. ხოლო თუ თქვენ არ მოგითხოვიათ პაროლის აღსდგენა, დააიგნორეთ იმეილი და დაუკავშირდით ადმინისტრაციას.</word>
+  <word key="email_lost_pass_plain" js="0">იმისთვის რომ თქვენი პაროლი აღვადგინოთ ჩვენ უნდა დავრწმუნდეთ რომ ნამდვილად თქვენ მოგითხოვიათ აღსდგენა - დააჭირეთ ლინკს დაბლა. ხოლო თუ თქვენ არ მოგითხოვიათ პაროლის აღსდგენა, დააიგნორეთ იმეილი და დაუკავშირდით ადმინისტრაციას.</word>
+  <word key="email_reset_password" js="0">პაროლის აღდგენა</word>
+  <word key="email_validate_link" js="0">ელ. ფოსტის ვერიფიკაცია</word>
+  <word key="email_validate_link_short" js="0">დაადასტურე ელ. ფოსტა</word>
+  <word key="email_contact_form" js="0">მომხმარებელმა „ჩვენთან კონტაქტი“-ს ღილაკით გამოგზავნა შეტყობინება.</word>
+  <word key="email_new_profile_reply" js="0"><![CDATA[<a href='%s'>%s</a> უპასუხა პროფილის კომენტარს.]]></word>
+  <word key="email_new_profile_reply_plain" js="0">%s უპასუხა პროფილის კომენტარს.</word>
+  <word key="privacy_policy_link" js="0">დააჭირეთ აქ ჩვენი პირადულობის პოლიტიკის სანახავად</word>
+  <word key="email_go_to_your_profile" js="0">ჩემი პროფილის ნახვა</word>
+  <word key="mailsub__core_email_address_changed" js="0">ელ. ფოსტა შეიცვალა</word>
+  <word key="email_account_locked" js="0">ჩვენ დავაფიქსირეთ %s წარუმატებელი შემოსვლის მცდელობა თქვენს ანგარიშზე %s-დან.</word>
+  <word key="email_account_locked_change_password" js="0">თუ ეს თქვენ არ იყავით, ვიღაც ცდილობს თქვენს ანგარიშში შესვლას. მას ეს არ გამოუვიდა, მაგრამ უსაფრთხოებისთვის, ჯობია პაროლი შეცვალოთ. შეცვალეთ ყველგან ეს პაროლი, თუ ამ ფორუმის ანგარიშზე დაყენებულ პაროლს სხვაგანაც იყენებთ.</word>
+  <word key="email_account_locked_safely_ignore" js="0">თუ ეს თქვენ იყავით, დააიგნორეთ ეს წერილი და შედით ანგარიშზე %s-ზე.</word>
+  <word key="email_warned_comment" js="0">თქვენ გაფრთხილება მოგცათ %s-მა იმ კომენტარისთვის რომელიც გააკეთეთ %s-ში</word>
+  <word key="email_warned_item" js="0">თქვენ გაფრთხილება მოგცათ %s-მა %s-თვის,</word>
+  <word key="email_warned_other" js="0">თქვენ გაფრთხილება მოგცათ %s-მა</word>
+  <word key="email_warn_reason" js="0">მიზეზი</word>
+  <word key="email_warn_penalty" js="0">ჯარიმა</word>
+  <word key="emailerrorlogs_mlog_date" js="0">თარიღი</word>
+  <word key="acplogs" js="0">ადმინისტრატორის ლოგები</word>
+  <word key="acplogs_member_id" js="0">მომხმარებელი</word>
+  <word key="acplogs_action" js="0">მოქმედება</word>
+  <word key="acplogs_ip_address" js="0">აიპი მისამართი</word>
+  <word key="acplogs_ctime" js="0">თარიღი/დრო</word>
+  <word key="acplogs_module" js="0">მოდული</word>
+  <word key="acplogs_note" js="0">მოქმედება</word>
+  <word key="adminlogssettings" js="0">პარამეტრები</word>
+  <word key="moderatorlogssettings" js="0">პარამეტრები</word>
+  <word key="spamlogs_email_address" js="0">ელ. ფოსტა</word>
+  <word key="adminloginlogs_admin_username" js="0">სახელი</word>
+  <word key="adminloginlogs_admin_ip_address" js="0">აიპი მისამართი</word>
+  <word key="adminloginlogs_admin_time" js="0"><![CDATA[თარიღი & დრო]]></word>
+  <word key="adminloginlogs_admin_success" js="0">სტატუსი</word>
+  <word key="adminloginlogs_view" js="0">დეტალების ნახვა</word>
+  <word key="adminloginlogssettings" js="0">პარამეტრები</word>
+  <word key="adminloginlogs_request" js="0">მოთხოვნის დეტალები</word>
+  <word key="adminloginlogs_successful" js="0">წარმატებული</word>
+  <word key="adminloginlogs_unsuccessful" js="0">წარუმატებელი</word>
+  <word key="ban_content" js="0">მასალა</word>
+  <word key="ban_reason" js="0">მიზეზი</word>
+  <word key="acplog__profile_settings" js="0">რედაქტირებული პროფილის პარამეტრები</word>
+  <word key="signatures" js="0">ხელმოწერები</word>
+  <word key="signatures_disabled" js="0">თქვენ არ გაქვთ უფლება დაარედაქტიროთ ხელმოწერა.</word>
+  <word key="sig_restrictions_exceeded" js="0">თქვენს მიერ შერჩეული ხელმოწერა მიუღებელია. გადახედეთ წესებს.</word>
+  <word key="profile_settings_birthdays" js="0">დაბადების დღეები</word>
+  <word key="profile_settings_cvb_unread" js="0">მიმიყვანე იმ კომენტარებზე რომელიც არ წამიკითხავს</word>
+  <word key="profile_settings_cvb_first" js="0">ჩატვირთე მასალის დასაწყისი</word>
+  <word key="profile_settings_cvb_last" js="0">მიმიყვანე უახლეს კომენტარამდე</word>
+  <word key="link_pref" js="0">კონტენტის გახსნისას...</word>
+  <word key="profile_settings_cvb" js="0">ქცევა მასალის ნახვისას</word>
+  <word key="profile_reputation" js="0">რეპუტაცია</word>
+  <word key="reputation_title" js="0">რეპუტაცია</word>
+  <word key="rep_word_custom" js="0">სათაური</word>
+  <word key="rep_level_title" js="0">სათაური</word>
+  <word key="acplogs__rep_created" js="0">შექმნა რეპუტაციის დონე %s რეპუტაციის ერთეულისთვის</word>
+  <word key="acplogs__rep_edited" js="0">დაარედაქტირა რეპუტაციის დონე %s ერთეული რეპუტაციისთვის</word>
+  <word key="acplogs__rep_deleted" js="0">წაშალა რეპუტაციის დონე %s ერთეული რეპუტაციისთვის</word>
+  <word key="acplogs__rep_settings" js="0">შეცვალა რეპუტაციის პარამეტრები</word>
+  <word key="like_log_title" js="0">ვის მოსწონს ეს</word>
+  <word key="reaction_title" js="0">სათაური</word>
+  <word key="neutral" js="0">ნეიტრალური</word>
+  <word key="acplogs__tag_settings" js="0">დაარედაქტირა ჰეშტეგების პარამეტრები</word>
+  <word key="add_poll_question" js="0">კითხვის დამატება</word>
+  <word key="add_poll_question_title" js="0">კითხვის დამატება ამ გამოკითხვაზე</word>
+  <word key="pf_type_Email" js="0">ელ. ფოსტა</word>
+  <word key="pf_type_Password" js="0">პაროლი</word>
+  <word key="pf_content" js="0">პარამეტრები</word>
+  <word key="pf_not_null" js="0">აუცილებელი?</word>
+  <word key="add_profile_field" js="0">დაამატე პროფილის ველი</word>
+  <word key="acprestrictions" js="0">ადმინისტრატორები</word>
+  <word key="acprestrictions_add" js="0">ადმინისტრატორის დამატება</word>
+  <word key="acprestrictions_member" js="0">მომხმარებელი</word>
+  <word key="acprestrictions_noself" js="0">თქვენ ვერ დაარედაქტირებთ თქვენი ანგარიშის წვდომას.</word>
+  <word key="acprestrictions_name" js="0">ადმინისტრატორი</word>
+  <word key="acprestrictions_row_updated" js="0">ბოლოს განახლებული</word>
+  <word key="module__core_messaging" js="0">წერილები</word>
+  <word key="module__core_profile" js="0">პროფილები</word>
+  <word key="module__core_members" js="0">პროფილები</word>
+  <word key="module__core_staffdirectory" js="0">პერსონალი</word>
+  <word key="module__core_settings" js="0">პარამეტრები</word>
+  <word key="module__core_membersettings" js="0">მომხმარებლის პარამეტრები</word>
+  <word key="module__core_contact" js="0">ჩვენთან კონტაქტი</word>
+  <word key="module__core_support" js="0">დახმარება</word>
+  <word key="acplogs__registration_settings" js="0">დაარედაქტირა რეგისტრაციის პარამეტრები</word>
+  <word key="site_social_profiles" js="0">სოციალური ქსელის პროფილები</word>
+  <word key="menu__core_settings" js="0">პარამეტრები</word>
+  <word key="menu__core_settings_login" js="0"><![CDATA[ავტორიზაცია & რეგისტრაცია]]></word>
+  <word key="menu__core_staff" js="0">პერსონალი</word>
+  <word key="menu__core_staff_admin" js="0">ადმინისტრატორები</word>
+  <word key="menu__core_members_ip" js="0">IP მისამართების ხელსაწყოები</word>
+  <word key="menu__core_membersettings_notifications" js="0">შეტყობინებები</word>
+  <word key="menu__core_settings_terms" js="0"><![CDATA[პირობები & პირადულობის პოლიტიკა]]></word>
+  <word key="menu__core_logsettings" js="0">პარამეტრები</word>
+  <word key="r__onlineusers" js="0">ონლაინ წევრების სტატისტიკა</word>
+  <word key="menu__core_stats_onlineusers" js="0">წევრები ონლაინში</word>
+  <word key="visits_email" js="0">ელ. ფოსტა</word>
+  <word key="activity_name" js="0">წევრი</word>
+  <word key="activity_member_last_post" js="0">ბოლო პოსტი</word>
+  <word key="activity_member_posts" js="0">მასალის რაოდენობა</word>
+  <word key="activity_email" js="0">ელ. ფოსტა</word>
+  <word key="activity_group_name" js="0">ჯგუფი</word>
+  <word key="activity_ip_address" js="0">აიპი მისამართი</word>
+  <word key="r__settings" js="0">პარამეტრები</word>
+  <word key="r__staff_admin" js="0">ადმინისტრატორები</word>
+  <word key="r__profiles" js="0">პროფილები</word>
+  <word key="r__profilefields_edit" js="0">შეუძლია პროფილის ფაილდების რედაქტირება</word>
+  <word key="r__profilefieldgroups_edit" js="0">შეუძლია პროფილის ფაილდების გრუპის რედაქტირება</word>
+  <word key="r__email" js="0">ელ. ფოსტის პარამეტრები</word>
+  <word key="r__warnings" js="0">გაფრთხილებები</word>
+  <word key="r__notifications" js="0">შეტყობინებები</word>
+  <word key="r__messages" js="0">წერილები</word>
+  <word key="r__terms" js="0"><![CDATA[პირობები & პრიადულობის პოლიტიკა]]></word>
+  <word key="acplogs__email_settings" js="0">შეცვალა ელ. ფოსტა</word>
+  <word key="acplogs__license_settings" js="0">განაახლა ლიცენზიის გასაღები</word>
+  <word key="license_benefit_support" js="0">%s დახმარება</word>
+  <word key="license_renew_now" js="0">ახლავე განახლება</word>
+  <word key="qa_answers" js="0">პასუხი</word>
+  <word key="log_message" js="0">წერილი</word>
+  <word key="acplog__systemlog_settings" js="0">დაარედაქტირა სისტემური ლოგის პარამეტრები</word>
+  <word key="emailtpl_profile_comment" js="0">მომხმარებელმა დააკომენტარა პროფილზე</word>
+  <word key="emailtpl_notification_profile_comment" js="0">სტატუსის განახლება</word>
+  <word key="emailtpl_notification_profile_reply" js="0">სტატუსზე პასუხი</word>
+  <word key="emailtpl_warning" js="0">გაფრთხილების შტყობინება</word>
+  <word key="emailtpl_password_changed" js="0">პაროლი შეიცვალა</word>
+  <word key="emailtpl_email_address_changed" js="0">ელ. ფოსტა შეიცვალა</word>
+  <word key="acplogs__themeset_created" js="0">შექმნა თემა - %s</word>
+  <word key="core_theme_upload_field" js="0">ატვირთვა</word>
+  <word key="core_theme_resource_location_new" js="0">ახალი ლოკაცია</word>
+  <word key="core_theme_setting_word_default" js="0">სათაური</word>
+  <word key="core_theme_setting_word_custom" js="0">სათაური</word>
+  <word key="acplogs__theme_setting_edited" js="0">დაარედაქტირა თემის პარამეტრი - %s</word>
+  <word key="acplogs__theme_setting_created" js="0">შექმნა თემის პარამეტრი - %s</word>
+  <word key="acplogs__theme_setting_deleted" js="0">წაშალა თემის პარამეტრი - %s</word>
+  <word key="theme_custom_setting_type_content" js="0">პარამეტრები</word>
+  <word key="themesetting_subscription_active" js="0">მიმდინარე პაკეტის ფერი</word>
+  <word key="notificationsettings" js="0">შეტყობინების პარამეტრები</word>
+  <word key="admin_notification_pref_available" js="0">ხელმისაწვდომი</word>
+  <word key="warning" js="0">გაფრთხილება</word>
+  <word key="warnings" js="0">გაფრთხილებები</word>
+  <word key="wa_mq" js="0">კონტენტის მოდერაციის აკრძალვა</word>
+  <word key="wa_rpa" js="0">მასალის განთავსების აკრძალვა</word>
+  <word key="acplog__wa_created" js="0">დაამატა მოქმედება %s საგამაფრთხილებლო ქულაზე</word>
+  <word key="acplog__wa_edited" js="0">დაარედაქტირა მოქმედება %s საგამაფრთხილებლო ქულაზე</word>
+  <word key="acplog__wa_deleted" js="0">გააუქმა მოქმედება %s საგამაფრთხილებლო ქულაზე</word>
+  <word key="acplog__warn_settings" js="0">დაარედაქტირა გაფრთხილების პარამეტრები</word>
+  <word key="notification__warning_mods" js="0">%s-მა მიიღო გაფრთხილება %s-სგან.</word>
+  <word key="acknowledge" js="0">ვაცნობიერებ ამ გაფრთხილებას.</word>
+  <word key="acknowledge_message" js="0">უნდა გაიაზროთ ეს გაფრთხილება გაგრძელებამდე</word>
+  <word key="warn_reason_message" js="0">მიზეზი:</word>
+  <word key="you_have_been_warned" js="0">თქვენ გაფრთხილება მოგცათ %s-მა</word>
+  <word key="must_acknowledge_msg" js="0"><![CDATA[თუ გსურთ რომ მასალის განთავსება შეძლოთ, თქვენ <strong>აუცილებლად</strong> უნდა გააცნობიეროთ თქვენი დარღვევა. სხვაგვარად, დამატებითი შეზღუდვები შეიძლება კვლავ დარჩეს ძალაში.]]></word>
+  <word key="warning_expires" js="0">ვადა გასდის %s</word>
+  <word key="allow_reg_target" js="0">რეგისტრაციის ლინკი</word>
+  <word key="modperms__core_Warnings" js="0">გაფრთხილებები</word>
+  <word key="modperms__core_Members" js="0">მომხმარებლების მართვა</word>
+  <word key="can_hide_content" js="0">შეუძლია მასალის დამალვა?</word>
+  <word key="can_lock_content" js="0">შეუძლია მასალის დახურვა?</word>
+  <word key="add_moderator" js="0">მოდერატორის დამატება</word>
+  <word key="moderator_tools" js="0">მოდერატორის პარამეტრები</word>
+  <word key="filehandler__Ftp_password" js="0">პაროლი</word>
+  <word key="ftp_display_password" js="0">პაროლი</word>
+  <word key="attach_file" js="0">ფაილის სახელი</word>
+  <word key="attach_filesize" js="0">ზომა</word>
+  <word key="attach_date" js="0">ატვირთულია</word>
+  <word key="attach_member_id" js="0">ამტვირთავი</word>
+  <word key="attach_hits" js="0">ფაილები</word>
+  <word key="attach_filesize_desc" js="0">ბიტებში</word>
+  <word key="attach_view_locations" js="0">ნახეთ ადგილები</word>
+  <word key="filestorage__core_Profile" js="0">პროფილის ფოტოები</word>
+  <word key="files_log_msg" js="0">წერილი</word>
+  <word key="acplogs__profanity_filter_created" js="0">დაემატა ახალი სიტყვის ფილტრი</word>
+  <word key="acplogs__profanity_filter_edited" js="0">დაარედაქტირა სიტყვათა ფილტრი</word>
+  <word key="acplogs__seo_sitemap_settings" js="0">განაახლა საიტის რუკის პარამეტრები</word>
+  <word key="acplogs__seo_metatag_settings" js="0">განაახლა მეტა ტაგის პარამეტრები</word>
+  <word key="acplogs__seo_tracking_settings" js="0">განაახლა საძიებო სისტემებში ძებნის პარამეტრები</word>
+  <word key="advertisements" js="0">რეკლამები</word>
+  <word key="ad_filters_active" js="0">გააქტიურებული</word>
+  <word key="ad_filters_inactive" js="0">დამალული</word>
+  <word key="ads_word_custom" js="0">სათაური</word>
+  <word key="ads_ad_clicks" js="0">დაკლიკებები</word>
+  <word key="ads_ad_active" js="0">სტატუსი</word>
+  <word key="ads_ad_email_views" js="0">ნახვები</word>
+  <word key="acplog_ad_settings" js="0">დაარედაქტირა რეკლამის პარამეტრები</word>
+  <word key="ad_title" js="0">სათაური</word>
+  <word key="ad_type_image" js="0">პოტოების ატვირთვა</word>
+  <word key="ad_type_email" js="0">ელ. ფოსტით რეკლამირება</word>
+  <word key="ad_start" js="0">დაწყების თარიღი</word>
+  <word key="ad_html" js="0">HTML კოდი</word>
+  <word key="ad_html_https" js="0">HTML კოდი HTTPS-ზე</word>
+  <word key="ad_url" js="0">ლინკი</word>
+  <word key="ad_image" js="0">ფოტო</word>
+  <word key="ad_image_small" js="0">პატარა ფოტო</word>
+  <word key="ad_image_medium" js="0">საშუალო ზომის ფოტო</word>
+  <word key="ad_email_views" js="0">ნახვები</word>
+  <word key="ad_clicks" js="0">დაკლიკებები</word>
+  <word key="ad_sidebar" js="0">გვერდითი მენიუ</word>
+  <word key="advertisements_site" js="0">საიტის რეკლამირება</word>
+  <word key="advertisements_emails" js="0">ელ. ფოსტით რეკლამირება</word>
+  <word key="acplog_ad_added" js="0">დაამატა რეკლამა</word>
+  <word key="acplog_ad_edited" js="0">დაარედაქტირა რეკლამა</word>
+  <word key="add_advertisement" js="0">რეკლამის შექმნა</word>
+  <word key="acplog_ad_deleted" js="0">წაშალა რეკლამა</word>
+  <word key="acplog_ad_approved" js="0">დაადასტურა რეკლამა</word>
+  <word key="acplog_ad_enabled" js="0">ჩართო რეკლამა</word>
+  <word key="acplog_ad_disabled" js="0">გამორთო რეკლამა</word>
+  <word key="ad_toggled_visible" js="0">რეკლამა ახლა ჩართულია</word>
+  <word key="ad_toggled_notvisible" js="0">რეკლამა ახლა გამორთულია</word>
+  <word key="ad_details" js="0">რეკლამის დეტალები</word>
+  <word key="google_adsense_login_link" js="0">წაკითხვა</word>
+  <word key="menu__core_moderation_warnings" js="0">გაფრთხილებები</word>
+  <word key="reportedContent_settings" js="0">პარამეტრები</word>
+  <word key="settings_blurb" js="0">გამართეთ თქვენი ანგარიში და დაარედაქტირეთ მასში შემავალი მონაცემები.</word>
+  <word key="change_email_address" js="0">ელ. ფოსტის შეცვლა</word>
+  <word key="change_password_admin_1" js="0">თქვენივე უსაფრთხოებისთვის, გეკრძალებათ აქედან პაროლის შეცვლა. პაროლი უნდა შეცვალოთ ასე:</word>
+  <word key="change_password_admin_2" js="0">ადმინ პანელში ავტორიზაცია</word>
+  <word key="change_password_admin_4" js="0">აირჩიეთ „ჩემი დეტალების შეცვლა“</word>
+  <word key="change_password_admin_5" js="0">დააჭირეთ „Change“ პაროლის გასწვრივ ან Edit Password.</word>
+  <word key="change_email_admin_1" js="0">უსაფრთხოების მიზნების გამო, აქედან მეილის შეცვლა გეკრძალებათ. მეილის შესაცვლელად:</word>
+  <word key="change_email_admin_2" js="0">ადმინ პანელში ავტორიზაცია</word>
+  <word key="change_email_admin_4" js="0">აირჩიეთ „ჩემი დეტალების შეცვლა“</word>
+  <word key="change_email_admin_5" js="0">დააჭირეთ “შეცვლას“ მეილის გასწვრივ.</word>
+  <word key="new_email" js="0">ახალი ელ. ფოსტა</word>
+  <word key="current_email" js="0">მიმდინარე ელ. ფოსტა</word>
+  <word key="current_password" js="0">ამჟამინდელი პაროლი</word>
+  <word key="new_password" js="0">ახალი პაროლი</word>
+  <word key="confirm_new_password" js="0">დაადასტურეთ ახალი პაროლი</word>
+  <word key="password_changed" js="0">პაროლი შეიცვალა.</word>
+  <word key="change_username" js="0">შეცვალეთ მომხმარებლის სახელი</word>
+  <word key="new_username" js="0">ახალი მომხმარებლის სახელი</word>
+  <word key="username_changed" js="0">მომხმარებლის სახელი შეიცვალა.</word>
+  <word key="username_err_nochange" js="0">თქვენ არ გაქვთ უფლება შეიცვალოთ მომხმარებლის სახელი.</word>
+  <word key="signature_changed" js="0">ხელმოწერა შეიცვალა.</word>
+  <word key="my_attachments" js="0">ჩემი მიმაგრებული ფაილები</word>
+  <word key="terms" js="0"><![CDATA[პირობები & პირადულობის პოლიტიკა]]></word>
+  <word key="gl_title" js="0">სათაური</word>
+  <word key="privacy_title" js="0">სათაური</word>
+  <word key="terms_privacy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="acplogs__terms_edited" js="0">დაარედაქტირა რეგისტრაციის პირობები, პირადობის პოლიტიკა და გაიდლაინები</word>
+  <word key="loc_viewing_privacy_policy" js="0">ნახულობს პირადულობის პოლიტიკას</word>
+  <word key="loc_viewing_privacy_policy_action" js="0">%s კითხულობს პირადულობის პოლიტიკას</word>
+  <word key="mail_from_name" js="0">თქვენი სახელი</word>
+  <word key="mail_from_email" js="0">თქვენი მეილი</word>
+  <word key="email_content" js="0">წერილი</word>
+  <word key="attach_allowed_types_none" js="0">არცერთი</word>
+  <word key="acplog__tasklog_settings" js="0">დაარედაქტირა დავალებების პარამეტრები</word>
+  <word key="acplogs__advanced_server_edited" js="0">დაარედაქტირა სერვერის კონფიგურაციის პარამეტრები</word>
+  <word key="acplogs__search_settings" js="0">განაახლა ძებნის პარამეტრები</word>
+  <word key="lang_word_theme" js="0">თემა</word>
+  <word key="acplogs__lang_created" js="0">დაამატა ენა - %s</word>
+  <word key="acplogs__lang_translate" js="0">გადათარგმნა ფრაზა '%s' - %s ენაზე.</word>
+  <word key="acplogs__members_language_reset" js="0">შეცვალა ყველას ენა %s-ზე</word>
+  <word key="add_button" js="0">დამატება</word>
+  <word key="admin_notes_last_update" js="0">ბოლოს განახლებული</word>
+  <word key="dashboard_version_info" js="0"><![CDATA[ახალი ვერსია <strong>%s</strong> უკვე გამოვიდა და შეგიძლიათ მისი დაყენება.]]></word>
+  <word key="this_is_a_security_update" js="0">ამ ვერსიას აქვს ახალი დაცვის პატში და რეკომენდირებულია მისი დაყენება.</word>
+  <word key="dashboard_support_account" js="0">დახმარების აქაუნთი</word>
+  <word key="dasbhoard_tasks_site_offline" js="0">ფორუმი გათიშულია</word>
+  <word key="onboard_tab_privacyterms" js="0"><![CDATA[პირობები & პირადულობის პოლიტიკა]]></word>
+  <word key="change_email_button" js="0">ელ. ფოსტის შეცვლა</word>
+  <word key="acplogs__admin_pass_updated" js="0">განახლებული პაროლი</word>
+  <word key="acplogs__admin_email_updated" js="0">დაარედაქტირა მეილი</word>
+  <word key="my_details" js="0">ჩემი დეტალები</word>
+  <word key="acplogs__security_settings" js="0">განაახლა უსაფრთხოების პარამეტრები</word>
+  <word key="security_header_ips" js="0">უსაფრთხოება</word>
+  <word key="security_header_accounts" js="0">ანგარიშის უსაფრთხოება</word>
+  <word key="messenger_submit_comment" js="0">პასუხის განთავსება</word>
+  <word key="messenger_folder_unread" js="0">წაუკითხავი წერილები</word>
+  <word key="messenger_notifications_on" js="0">შეტყობინებების ჩართვა</word>
+  <word key="messenger_notifications_off" js="0">შეტყობინებების გამორთვა</word>
+  <word key="message_send" js="0">წერილი</word>
+  <word key="messenger_search_in_post" js="0">წერილები</word>
+  <word key="messenger_search_in_topic" js="0">სათაური</word>
+  <word key="modcp" js="0">საიტის მოდერაცია</word>
+  <word key="active_reports" js="0">მიმდინარე რეპორტები</word>
+  <word key="modcp_reports" js="0">გასაჩივრებული მასალა</word>
+  <word key="modcp_members" js="0">მომხმარებლების მართვა</word>
+  <word key="modcp_hidden" js="0">დამალული მასალა</word>
+  <word key="modcp_approval" js="0">დასადასტურებლების სია</word>
+  <word key="modcp_deleted" js="0">წაშლილი მასალა</word>
+  <word key="moderation_banned" js="0">დაბლოკილი(ა)</word>
+  <word key="modcp_members_banned" js="0">დაბლოკილი(ა)</word>
+  <word key="modcp_member_find" js="0">ჩაწერეთ დასარედაქტირებელი მომხმარებლის სახელი</word>
+  <word key="member_status_container" js="0">მომხმარებელი</word>
+  <word key="modcp_recent_warnings" js="0">ბოლოდროინდელი გაფრთხილებები</word>
+  <word key="modcp_tools" js="0">ხელსაწყოები</word>
+  <word key="modcp_ip_tools" js="0">IP მისამართების ხელსაწყოები</word>
+  <word key="mark_report_as" js="0">მონიშნე გასაჩივრება როგორც</word>
+  <word key="viewing_deleted_content" js="0">ნახულობს წაშლილ მასალა: %s</word>
+  <word key="date_posted" js="0">დაიპოსტა %s </word>
+  <word key="report_post" js="0">პოსტის გასაჩივრება</word>
+  <word key="report_status_2" js="0">გადახედვის ქვეშაა</word>
+  <word key="report_status_3" js="0">შესრულებული</word>
+  <word key="report_center_link" js="0">ყველა გასაჩივრებული მასალა</word>
+  <word key="core_statuses_status" js="0">სტატუსის განახლებები</word>
+  <word key="core_statuses_reply" js="0">სტატუსზე პასუხები</word>
+  <word key="core_statuses_status_pl" js="0">სტატუსის განახლებები</word>
+  <word key="warn_reason" js="0">მიზეზი</word>
+  <word key="core_warn_reason_other" js="0">სხვა</word>
+  <word key="core_warn_reason_0" js="0">გაფრთხილება</word>
+  <word key="warn_member_note" js="0">წერილი მომხმარებლისთვის</word>
+  <word key="warn_mq" js="0">კონტენტის მოდერაციის აკრძალვა</word>
+  <word key="warn_rpa" js="0">მასალის განთავსების აკრძალვა</word>
+  <word key="warn_suspend" js="0">საიტზე წვდომის აკრძალვა</word>
+  <word key="member_warn_level" js="0">{# [1:გაფრთხილების ქულა][?:გაფრთხილების ქულა]}</word>
+  <word key="warn__save" js="0">გაფრთხილების მიცემა</word>
+  <word key="warning_byline" js="0">გაფრთხილება გასცა %s'მა</word>
+  <word key="warning_acknowledged" js="0">მომხმარებელმა გააცნობიერა გაფრთხილება</word>
+  <word key="warning_not_acknowledged" js="0">მომხმარებელს ჯერ არ უნახავს გაფრთხილება</word>
+  <word key="warn_action_points_never_expire" js="0">მისცა %d ქულა რომელიც არასდროს ამოიწურება.</word>
+  <word key="warn_user" js="0">გაფრთხილება</word>
+  <word key="members_warnings" js="0">%s-ის გაფრთხილებები</word>
+  <word key="view_warning_details" js="0">დეტალების ნახვა</word>
+  <word key="view_warning_details_title" js="0">ნახეთ მეტი ინფორმაცია ამ გაფრთხილების შესახებ</word>
+  <word key="warning_details" js="0">გაფრთხილების დეტალები</word>
+  <word key="profile_contact" js="0">კონტაქტის ინფორმაცია</word>
+  <word key="profile_edit" js="0">პროფილის რედაქტირება</word>
+  <word key="loc_viewing_profile" js="0">ათვალიერებს პროფილს: %s</word>
+  <word key="profile_recent_visitors" js="0">სტუმრები</word>
+  <word key="see_recent_warnings" js="0">ნახეთ ბოლოდროინდელი გაფრთხილებები</word>
+  <word key="no_recent_warnings" js="0">გაფრთხილებები არ მოიძებნა</word>
+  <word key="no_restrictions_applied" js="0">არ აქვს არავითარი სანქცია დაკისრებული</word>
+  <word key="profile_browse_content" js="0">ნახეთ მისი აქტივობა</word>
+  <word key="profile_browse_my_content" js="0">ჩემი ატქივობის ნახვა</word>
+  <word key="no_recent_activity" js="0">%s არ აქვს აქტიურობა</word>
+  <word key="all_activity" js="0">ყველა აქტივობა</word>
+  <word key="follow_this_member" js="0">გამოიწერეთ ეს მომხმარებელი</word>
+  <word key="profile_email_addresses" js="0">მხოლოდ პერსონალი ხედავს ელ. ფოსტას.</word>
+  <word key="online_users" js="0">წევრები ონლაინში</word>
+  <word key="online_users_member_name" js="0">მომხმარებლის სახელი</word>
+  <word key="online_users_location_lang" js="0">ამჟამად</word>
+  <word key="active_users_empty" js="0">არცერთი რეგისტრირებული მომხმარებელი არ ნახულობს ამ გვერდს.</word>
+  <word key="block_activeUsers" js="0">ამჟამად გვერდზეა</word>
+  <word key="block_activeUsers_noApp" js="0">ამჟამად გვერდზეა</word>
+  <word key="block_user_in_editor" js="0">წერს...</word>
+  <word key="block_whosOnline" js="0">ვინ არის ონლაინ</word>
+  <word key="block_stats" js="0">წევრების სტატისტიკა</word>
+  <word key="stats_total_members" js="0">წევრების რაოდენობა</word>
+  <word key="block_relatedContent" js="0">მსგავსი მასალა</word>
+  <word key="block_guestsignup_title" js="0">სათაური</word>
+  <word key="block_newsletter_signup_button" js="0">რეგისტრაცია</word>
+  <word key="ignored_users" js="0">დაიგნორებული წევრები</word>
+  <word key="add_ignored_user" js="0">დაამატეთ დასაიგნორებელი მომხმარებელი</word>
+  <word key="ignore_topics" js="0">პოსტები</word>
+  <word key="ignore_signatures" js="0">ხელმოწერა</word>
+  <word key="ignore_messages" js="0">წერილები</word>
+  <word key="announcement" js="0">განცხადება</word>
+  <word key="announcements" js="0">განცხადებები</word>
+  <word key="modcp_announcements" js="0">განცხადებები</word>
+  <word key="announce_title" js="0">სათაური</word>
+  <word key="announce_type_none" js="0">მხოლოდ სათაური</word>
+  <word key="announce_type_url" js="0">ლინკზე გადამისამართება</word>
+  <word key="announce_content" js="0">განცხადება</word>
+  <word key="announce_url" js="0">ლინკი/URL</word>
+  <word key="add_announcement" js="0">განცხადების დამატება</word>
+  <word key="block_announcements" js="0">განცხადებები</word>
+  <word key="announcement_not_active" js="0">განცხადება აღარაა აქტიური</word>
+  <word key="no_announcements" js="0">არაა მიმდინარე განცხადებები</word>
+  <word key="active" js="0">აქტიური</word>
+  <word key="menutab__support" js="0">დახმარება</word>
+  <word key="support" js="0">დახმარება</word>
+  <word key="acp_search_title_core_Members" js="0">წევრები</word>
+  <word key="acp_search_title_core_Groups" js="0">ჯგუფები</word>
+  <word key="acp_search_title_core_Settings" js="0">პარამეტრები</word>
+  <word key="acp_search_title_core_Clubs" js="0">კლუბები</word>
+  <word key="acptheme_os_preference" js="0">ავტომატური</word>
+  <word key="acptheme_light" js="0">ღია</word>
+  <word key="acptheme_dark" js="0">მუქი</word>
+  <word key="add_recommend_content" js="0">რეკომენდაციის დამატება</word>
+  <word key="sort_rating" js="0">საუკეთესო შეფასება</word>
+  <word key="sort_rating_average" js="0">საუკეთესო შეფასება</word>
+  <word key="sort_title" js="0">სათაური</word>
+  <word key="sort_joined" js="0">შემოუერთდა</word>
+  <word key="sort_posts" js="0">პოსტების რაოდენობა</word>
+  <word key="widget_feed_comment_date" js="0">დაიპოსტა</word>
+  <word key="member_status" js="0">სტატუსი</word>
+  <word key="notification__profile_reply" js="0">%s დააკომენტარა სტატუსზე.</word>
+  <word key="search_everything" js="0">ყველა მასალა</word>
+  <word key="joinedDate" js="0">შემოუერთდა</word>
+  <word key="advanced_search" js="0">გაფართოებული ძებნა</word>
+  <word key="categories_sg" js="0">კატეგორია</word>
+  <word key="digests_read_more" js="0">წაკითხვა...</word>
+  <word key="joinedDateCustom" js="0">შემოუერთდა</word>
+  <word key="menu__core_support" js="0">დახმარება</word>
+  <word key="get_support" js="0">დახმარების მიღება</word>
+  <word key="contact_support" js="0">ტექნიკურ სერვისთან კავშირი</word>
+  <word key="contact_support_submit" js="0">ტექნიკურ სერვისთან კავშირი</word>
+  <word key="support_request_title" js="0">სათაური</word>
+  <word key="support_diagnostics" js="0">დიაგნოსტიკები</word>
+  <word key="upgrade_now" js="0">გაძლიერება</word>
+  <word key="support_guides" js="0">დოკუმენტაცია</word>
+  <word key="r__support" js="0">დახმარება</word>
+  <word key="advice" js="0">რეკომენდაციები</word>
+  <word key="category_name" js="0">სახელი</word>
+  <word key="category_description" js="0">აღწერა</word>
+  <word key="add_category" js="0">კატეგორიის დამატება</word>
+  <word key="ago" js="0">წინ</word>
+  <word key="widget_member_online" js="0">ამჟამად ონლაინში</word>
+  <word key="widget__sort_posts" js="0">პოსტები</word>
+  <word key="widget__sort_joined" js="0">შემოუერთდა</word>
+  <word key="__api_core_members" js="0">მომხმარებლები</word>
+  <word key="__api_core_messages" js="0">მესიჯები</word>
+  <word key="__api_core_search" js="0">ძებნა</word>
+  <word key="__api_core_me" js="0">ავტორიზებული მომხმარებელი</word>
+  <word key="__api_core_groups" js="0">ჯგუფები</word>
+  <word key="__api_core_warnreasons" js="0">გაფრთხილების მიზეზები</word>
+  <word key="r__contactus" js="0">ჩვენთან კონტაქტი</word>
+  <word key="acplogs__contactus_settings" js="0">დაარედაქტირა საკონტაქტო პარამეტრები</word>
+  <word key="mfa_google_title" js="0">გუგლის ავთენტიფიკატორი</word>
+  <word key="mfa_google_desc_user" js="0">თქვენ უნდა ჩაიწეროთ Google Authenticator აპლიკაცია ტელეფონში. როცა მოგიწევთ ვინაობის დადასტურება, მაგ აპლიკაციაში გამოჩნდება ერთჯერადი კოდი.</word>
+  <word key="mfa_try_another_method" js="0">ან გამოიყენეთ სხვა მეთოდი</word>
+  <word key="mailsub__core_mfaRecovery" js="0">აქაუნთის აღდგენის პროცესი</word>
+  <word key="mfa_recovery_email" js="0">მიიღეთ ფოსტაზე წერილი წვდომის აღსადგენად</word>
+  <word key="mfa_recovery_contact" js="0">დაგვიკავშირდით ჩვენ დახმარებისთვის</word>
+  <word key="member__core_SecurityAnswers" js="0">ორფაქტორიანი ავთენტიფიკაცია</word>
+  <word key="ucp_mfa" js="0">უსაფრთხოება და პირადულობა</word>
+  <word key="mfa_ucp_blurb" js="0">თქვენი ანგარიშის უსაფრთხოებისთვის, ზოგჯერ შეიძლება მოგთხოვოთ თქვენი ვინაობის დადასტურება. ეს იმიტომ რომ, პაროლის გატეხვის შემთხვევაშიც, თქვენი აქაუნტი იყოს უსაფრთხოდ.</word>
+  <word key="mfa_popup_title" js="0">საჭიროა ორმაგი ვერიფიკაცია</word>
+  <word key="mfa_popup_recover_title" js="0">აირჩიეთ ვერიფიკაციის მეთოდი</word>
+  <word key="mfa_popup_recover_info" js="0">თქვენი ანგარიშის უსაფრთხოებისთვის, ვინაობის დადასტურება საჭიროა. აირჩიეთ ვერიფიკაციის მეთოდი.</word>
+  <word key="mfa_settings_title" js="0">უსაფრთხოება</word>
+  <word key="settings_privacy_title" js="0">პირადულობა</word>
+  <word key="online_visibility" js="0">ონლაინის სტატუსი</word>
+  <word key="online_visibility_desc" js="0"><![CDATA[თუ თქვენი სტატუსია <strong>ჩართული</strong>, მაშინ სხვები დაგინახავენ რომ საიტზე ხართ.]]></word>
+  <word key="hide_online_status" js="0">დამალე ჩემი ონლაინში ყოფნა</word>
+  <word key="show_online_status" js="0">აჩვენე ჩემი ონლაინში ყოფნა</word>
+  <word key="mfa_disable" js="0">გამორთეთ ეს მეთოდი</word>
+  <word key="mfa_ucp_blurb_password" js="0">ამ პარამეტრების შესაცვლელად, შეიყვანეთ პაროლი.</word>
+  <word key="acplogs__mfa_settings_updated" js="0">განაახლა ორმაგი ავთენტიფიკაციის პარამეტრები</word>
+  <word key="acplogs__mfa_handler_enabled" js="0">ჩართო %s</word>
+  <word key="acplogs__mfa_handler_disabled" js="0">ჩართო %s</word>
+  <word key="acplogs__mfa_handler_settings" js="0">განაახლა %s პარამეტრები</word>
+  <word key="google_authenticator_scan" js="0">დაასკანირეთ ეს კოდი Google Authenitcator აპლიკაციით</word>
+  <word key="google_submit_code" js="0">კოდის დადასტურება</word>
+  <word key="google_mfa_invalid_code" js="0">შეყვანილი კოდი არასწორია. შეამოწმეთ თქვენს სმარტფონში Google Authenticator აპლიკაცია. კოდი იცვლება 30 წამში ერთხელ.</word>
+  <word key="google_mfa_account_email" js="0">თქვენი ელ. ფოსტა</word>
+  <word key="google_mfa_auth" js="0">თქვენი ანგარიშის დასაცავად, ჩაწერეთ ის კოდი რომელიც გამოისახება თქვენს Google Authenticator app-ში.</word>
+  <word key="mfa_recovery_google" js="0">მიიღეთ კოდი Google Authenticator-ით</word>
+  <word key="mfa_google_reauth" js="0">კონფიგურაციის შეცვლა</word>
+  <word key="security_questions_prompt_register" js="0">დიახ, და აუცილებელი</word>
+  <word key="authy_placeholder" js="0">ტელეფონის ნომერი</word>
+  <word key="authy_submit_code" js="0">კოდის დადასტურება</word>
+  <word key="authy_method" js="0">ავთენტიფიკაციის მეთოდები</word>
+  <word key="banned" js="0">დაბლოკილი(ა)</word>
+  <word key="member_banned" js="0">თქვენ არ გაქვთ ამ საიტზე შესვლის უფლება.
+თუ თვლით რომ ეს უსამართლოა ან არ იცით რატომ გადევთ ბანი, გადადით ამ ლინკზე და მოგვწერეთ დახმარების თხოვნით: 
+
+http://help.lss-rp.ge/open.php (მოაკოპირეთ თუ პირდაპირ ვერ აჭერთ)</word>
+  <word key="popular_results_title" js="0">პოპულარული კონტენტი</word>
+  <word key="profile_member_won" js="0">%s ბოლოს მოიგო &quot;დღე&quot; %s 'ს</word>
+  <word key="profile_you_congrats" js="0">გილოცავთ, თქვენ გქონდათ ყველაზე მეტად მოწონებული მასალა!</word>
+  <word key="members_days_won_count" js="0">&quot;დღის&quot; მოგება</word>
+  <word key="popular_posted" js="0">დაიპოსტა</word>
+  <word key="notifications__core_Clubs" js="0">კლუბები</word>
+  <word key="club_date_joined" js="0">შემოუერთდა</word>
+  <word key="club_modperm_pin" js="0">მასალის მიმაგრება</word>
+  <word key="club_modperm_hide" js="0">დამალვა</word>
+  <word key="club_modperm_edit" js="0">მასალის რედაქტირება</word>
+  <word key="club_modperm_move" js="0">მასალის გადატანა</word>
+  <word key="club_modperm_lock" js="0">მასალის დახურვა</word>
+  <word key="club_modperm_unlock" js="0">მასალის გახსნა</word>
+  <word key="club_modperm_reply_to_locked" js="0">დახურულ მასალაზე პასუხი</word>
+  <word key="club_modperm_delete" js="0">მასალის წაშლა</word>
+  <word key="club_profile_photo" js="0">კლუბის აიქონი</word>
+  <word key="club_home" js="0">მთავარი</word>
+  <word key="club_joined" js="0">შემოუერთდა %s</word>
+  <word key="accepted" js="0">დადასტურებულია</word>
+  <word key="log_type_title_display_name" js="0">მომხმარებლის სახელის ცვლილებები.</word>
+  <word key="history_terms_accepted_privacy" js="0">დათანხმდა პირადულობის პოლიტიკას</word>
+  <word key="complete_your_profile" js="0">პროფილის დასრულება</word>
+  <word key="complete_profile_photo" js="0">პროფილის ფოტო</word>
+  <word key="complete_profile_birthday" js="0">დაბადების დღე</word>
+  <word key="complete_profile_signature" js="0">ხელმოწერა</word>
+  <word key="complete_profile_app__core_Core" js="0">სისტემა</word>
+  <word key="profile_step_required" js="0">აუცილებელი</word>
+  <word key="profile_acp_table_word_custom" js="0">სათაური</word>
+  <word key="profile_acp_table_step_required" js="0">აუცილებელი</word>
+  <word key="complete_my_profile" js="0">ჩემი პროფილის შევსება</word>
+  <word key="complete_profile_registration" js="0">რეგისტრაციის დასრულება</word>
+  <word key="see_all_history" js="0">ყველა აქტივოსიბ ნახვა</word>
+  <word key="pp_privacy_policy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="acp_notifications" js="0">ადმინის შეტყობინებები</word>
+  <word key="acp_notifications_email_never" js="0">არა</word>
+  <word key="acp_notifications_email_yes" js="0">დიახ</word>
+  <word key="mailsub__core_acp_notification_Spammer" js="0">მომხმარებელი მოინიშნა სპამერად</word>
+  <word key="acp_notification_group_commerce" js="0">კომერცია</word>
+  <word key="member_is_moderator" js="0">%s ფორუმის მოდერატორია</word>
+  <word key="app_unread_posts" js="0">წაუკითხავი პოსტები</word>
+  <word key="app_settings" js="0">ანგარიშის პარამეტრები</word>
+  <word key="app_sign_out" js="0">გამოსვლა</word>
+  <word key="app_no_users_online" js="0">ონლაინში მომხმარებლები არ არიან.</word>
+  <word key="app_register" js="0">რეგისტრაცია</word>
+  <word key="app_sign_in" js="0">შესვლა</word>
+  <word key="app_password" js="0">პაროლი</word>
+  <word key="app_error" js="0">შეცდომა</word>
+  <word key="app_error_reacting" js="0">წარმოიქმნა პრობლემა დარეაქტებისას.</word>
+  <word key="app_error_following" js="0">ამ მასალას ვერ გამოიწერთ.</word>
+  <word key="app_error_loading" js="0">ამ მასალის ჩატვირთვისას წარმოიქმნა პრობლემა.</word>
+  <word key="app_unread_comments" js="0">წაუკითხავი პასუხები</word>
+  <word key="app_error_ignoring_member" js="0">ამ მომხმარებლის დაიგნორებისას წარმოიშვა პრობლემა</word>
+  <word key="app_error_ignore_member" js="0">ამ მომხმარებელს ვერ დააიგნორებთ.</word>
+  <word key="app_error_ignore_no_self" js="0">თქვენ თავს ვერ დააიგნორებთ.</word>
+  <word key="app_error_upload_type" js="0">თქვენ ვერ ატვირთავთ ამ ტიპის სურათს.</word>
+  <word key="app_error_upload_space" js="0">თქვენ არ გაქვთ საკმარისი გამოყოფილი სივრცე რომ ატვირთოთ ეს სურათი.</word>
+  <word key="app_error_upload_other" js="0">წარმოიქმნა პრობლემა სურათის ატვირთვისას.</word>
+  <word key="app_not_available" js="0">მიუწვდომელია</word>
+  <word key="app_status_pinned" js="0">აპინული</word>
+  <word key="app_status_deleted" js="0">წაშლილი</word>
+  <word key="app_status_unapproved" js="0">მოცდაზე</word>
+  <word key="app_status_hot" js="0">პოპულარული</word>
+  <word key="app_status_locked" js="0">დახურული</word>
+  <word key="app_status_archived" js="0">დაარქივებული</word>
+  <word key="app_share" js="0">გაზიარება</word>
+  <word key="app_error_sharing_content" js="0">წარმოიქმნა პრობლემა მასალის გაზიარებისას.</word>
+  <word key="app_profile_reputation" js="0">რეპუტაცია</word>
+  <word key="app_email_address" js="0">ელ. ფოსტა</word>
+  <word key="app_username" js="0">მომხმარებლის სახელი</word>
+  <word key="app_forgot_password" js="0">დაგავიწყდათ პაროლი?</word>
+  <word key="app_sign_in_anon" js="0">შესვლა ანონიმურად</word>
+  <word key="app_notifications_unread" js="0">წაუკითხავი</word>
+  <word key="app_notification_none" js="0">„</word>
+  <word key="app_today" js="0">დღეს</word>
+  <word key="app_all_activity" js="0">ყველა აქტივობა</word>
+  <word key="app_follow_anon" js="0">გამოწერა ანონიმურად</word>
+  <word key="app_follow" js="0">გამოწერა</word>
+  <word key="app_followers" js="0">გამომწერები</word>
+  <word key="app_error_must_select_report_reason" js="0">გთხოვთ აირჩიოთ შეტყობინების მიზეზი.</word>
+  <word key="app_error_already_reported" js="0">თქვენ უკვე გაასაჩივრეთ ეს მასალა.</word>
+  <word key="app_error_report_failed" js="0">წარმოიქმნა პრობლემა კონტენტის დარეპორტებისას.</word>
+  <word key="app_error_cannot_report" js="0">ამ მასალას ვერ გაასაჩივრებთ.</word>
+  <word key="app_revoke_success" js="0">თქვენი რეპორტი გაუქმდა.</word>
+  <word key="app_report_reason" js="0">მიზეზი</word>
+  <word key="app_report_content_screen" js="0">მასალის დარეპორტება</word>
+  <word key="app_switch_folder" js="0">ფოლდერის შეცვლა</word>
+  <word key="app_error_adding_user" js="0">მომხმარებელი ვერ დამატდა ჩათში.</word>
+  <word key="app_legal_terms" js="0">პირადულობის პოლიტიკა და წესები</word>
+  <word key="app_legal_privacy" js="0">პირადულობის პოლიტიკა</word>
+  <word key="app_legal_guidelines" js="0">ფორუმის წესები</word>
+  <word key="acplogs__mobile_app_unregistered" js="0">მოხსნა მობილური აპლიკაციის ფუნქციონალი</word>
+  <word key="acplogs__mobile_app_activated" js="0">განაახლა მობილური აპლიკაცია</word>
+  <word key="marketplace_onboard_themes" js="0">თემები</word>
+  <word key="address_region" js="1">რაიონი/რეგიონი</word>
+  <word key="cancel" js="1">გაუქმება</word>
+  <word key="show_more" js="1">წაკითხვა</word>
+  <word key="add_tag" js="1">დაამატე ნიშნული</word>
+  <word key="time_minutes_ago" js="1">{# [1:წუთის][?:წუთის]} წინ</word>
+  <word key="time_hours_ago" js="1">{# [1:საათის][?:საათის]} წინ</word>
+  <word key="time_1_hour_ago" js="1">1 საათის წინ</word>
+  <word key="usernameAvailable" js="1">მომხმარებლის სახელი ხელმისაწვდომია!</word>
+  <word key="usernameTaken" js="1">მომხმარებლის სახელი დაკავებულია</word>
+  <word key="delete_confirm" js="1">დარწმუნებული ხართ რომ გინდათ ამის წაშლა?</word>
+  <word key="generic_confirm" js="1">დარწმუნებული ხართ?</word>
+  <word key="member_edit_cancel" js="1">გაუქმება</word>
+  <word key="filesStillUploading" js="1">ფაილები ჯერ კიდევ ტვირთვის პროცესშია.</word>
+  <word key="filesStillUploadingDesc" js="1">გთხოვთ დაელოდოთ სანამ ბოლომდე არ აიტვირთება.</word>
+  <word key="attachUploading" js="1">იტვირთება...</word>
+  <word key="attachError" js="1">შეცდომა</word>
+  <word key="attachFailed" js="1">მიბმა ჩაიშალა</word>
+  <word key="confirmStatusDelete" js="1">დარწმუნებული ხართ რომ გინდათ ამ სტატუსის წაშლა?</word>
+  <word key="confirmStatusCommentDelete" js="1">დარწმუნებული ხართ რომ გინდათ ამ კომენტარის წაშლა?</word>
+  <word key="searchTitle" js="1">ძიება</word>
+  <word key="editorQuote" js="1">ციტირება</word>
+  <word key="editorQuoteRemove" js="1">ციტირების წაშლა</word>
+  <word key="submit_reply" js="1">პასუხის განთავსება</word>
+  <word key="spoilerClickToReveal" js="1">სპოილერის გახსნა</word>
+  <word key="spoilerClickToHide" js="1">დამალვა</word>
+  <word key="quote_selected_text" js="1">ამის ციტირება</word>
+  <word key="newPostSingle" js="1">{{name}} უპასუხა</word>
+  <word key="notificationNewPostSingleTitle" js="1">ახალი პასუხი</word>
+  <word key="month_1" js="1">თებერვალი</word>
+  <word key="month_5" js="1">ივნისი</word>
+  <word key="month_6" js="1">ივლისი</word>
+  <word key="month_7" js="1">აგვისტო</word>
+  <word key="day_0" js="1">კვირა</word>
+  <word key="day_1" js="1">ორშაბათი</word>
+  <word key="day_2" js="1">სამშაბათი</word>
+  <word key="day_3" js="1">ოთხშაბათი</word>
+  <word key="day_4" js="1">ხუთშაბათი</word>
+  <word key="day_5" js="1">პარასკევი</word>
+  <word key="day_6" js="1">შაბათი</word>
+  <word key="quotedSpoiler" js="1">დამალული მასალა</word>
+  <word key="markAsReadConfirm" js="1">დარწმუნებული ხართ რომ გინდათ წაკითხულად მონიშვნა?</word>
+  <word key="followFrequency_none" js="1">არ არის შეტყობინებები</word>
+  <word key="messagesDelete" js="1">დარწმუნებული ხართ რომ გინდათ ამ ჩატის წაშლა?</word>
+  <word key="vseCancel" js="1">გაუქმება</word>
+  <word key="votesTitle" js="1">ხმები</word>
+  <word key="notificationFlashMultiple" js="1">თქვენ გაქვთ {# [1:ახალი შეტყობინება][?:ახალი შეტყობინებები]}</word>
+  <word key="acp_skin" js="0">ადმინ პანელის თემა</word>
+  <word key="member_photo_url" js="0">ლინკის ჩასმა</word>
+  <word key="notifications__new_private_message" js="0">მე ვიღებ შეტყობინებას</word>
+  <word key="menu__core_support_dashboard" js="0">დახმარება</word>
+  <word key="uploaderr_COULD_NOT_WRITE_FILE" js="0">დაგვიკავშირდით ჩვენ დახმარებისთვის.</word>
+  <word key="uploaderr_COULD_NOT_CREATE_FOLDER" js="0">დაგვიკავშირდით ჩვენ დახმარებისთვის.</word>
+  <word key="uploaderr_COULD_NOT_MOVE_FILE" js="0">დაგვიკავშირდით ჩვენ დახმარებისთვის.</word>
+  <word key="lost_pass_instructions" js="0">შეიყვანეთ თქვენი იმელი ქვევით. როდესაც იმეილს შეიყვანთ, თქვენ მიიღებთ ვერიფიკაციის ლინკს იმელზე.</word>
+  <word key="security_admins_joined" js="0">შემოუერთდა</word>
+  <word key="security_header_admincp" js="0">ადმინ პანელი</word>
+  <word key="security_header_passwords" js="0">პაროლები</word>
+ </app>
+ <app key="forums" version="">
+  <word key="__app_forums" js="0">Los Santos Stories</word>
+  <word key="__indefart_topic" js="0">თემაში</word>
+  <word key="filestorage__forums_Icons" js="0">ფორუმის იქონები</word>
+  <word key="answer" js="0">პასუხი</word>
+  <word key="answer_lc" js="0">პასუხი</word>
+  <word key="editor__forums_Forums" js="0">ფორუმი და თემები</word>
+  <word key="acp_search_title_forums_Forums" js="0">Los Santos Stories</word>
+  <word key="menu__forums_stats_topics" js="0">ახალი თემები</word>
+  <word key="forums" js="0">ფორუმი</word>
+  <word key="forums_add_child" js="0">საბფორუმის შექმნა</word>
+  <word key="forums_add_child_cat" js="0">ფორუმის შექმნა</word>
+  <word key="forum_password" js="0">პაროლი</word>
+  <word key="posts" js="0">პოსტები</word>
+  <word key="forum_preview_posts_topics" js="0">ახალი თემები</word>
+  <word key="forum_preview_posts_questions" js="0">ახალი კითხვები</word>
+  <word key="forum_preview_posts_answers" js="0">პასუხი</word>
+  <word key="add_forum" js="0">ფორუმის დამატება</word>
+  <word key="forums_topic_post" js="0">ფორუმის პოსტები</word>
+  <word key="forums_topic_pl" js="0">თემები</word>
+  <word key="forums_popular_now" js="0">ამჟამად პოპულარული</word>
+  <word key="acplogs__forums_settings" js="0">დაარედაქტირა ფორუმის პარამეტრები</word>
+  <word key="topics" js="0">თემები</word>
+  <word key="archive_topic_forums" js="0">ფორუმში</word>
+  <word key="archive_topic_not_forums" js="0">ფორუმში</word>
+  <word key="archive_topic_poll" js="0">გამოკითხვა</word>
+  <word key="archive_topic_post" js="0">პოსტები</word>
+  <word key="archive_topic_view" js="0">ნახვა</word>
+  <word key="archive_not_topic_post" js="0">პოსტები</word>
+  <word key="archive_not_topic_view" js="0">ნახვები</word>
+  <word key="archive_not_topic_rating" js="0">რეიტინგი</word>
+  <word key="archive_last_post" js="0">ბოლო პოსტი</word>
+  <word key="archive_last_post_cloud" js="0">ბოლო პოსტი</word>
+  <word key="archive_not_last_post" js="0">ბოლო პოსტი</word>
+  <word key="archive_remote_sql_user" js="0">მომხმარებლის სახელი</word>
+  <word key="archive_remote_sql_pass" js="0">პაროლი</word>
+  <word key="answers_number" js="0">{# [1:პასუხი][?:პასუხი]} </word>
+  <word key="answers_no_number" js="0">{!# [1:პასუხი][?:პასუხი]} </word>
+  <word key="votes_number" js="0">{# [-1:ხმა][1:ხმა][?:ხმა]} </word>
+  <word key="votes_no_number" js="0">{!# [-1:ხმა][1:ხმა][?:ხმა]} </word>
+  <word key="start_new_topic" js="0">ახალი თემის გახსნა</word>
+  <word key="start_new_topic_lc" js="0">ახალი თემის გახსნა</word>
+  <word key="ask_a_question" js="0">კითხვის დასმა</word>
+  <word key="ask_a_question_lc" js="0">კითხვის დასმა</word>
+  <word key="reply_to_this_topic" js="0">თემაზე პასუხის გაცემა</word>
+  <word key="mark_forum_read" js="0">ფორუმის წაკითხულად მონიშვნა</word>
+  <word key="forum_password_bad" js="0">პაროლი არასწორია.</word>
+  <word key="question_title" js="0">კითხვა</word>
+  <word key="topic_title" js="0">სათაური</word>
+  <word key="topic_tags" js="0">თეგები</word>
+  <word key="topic_auto_follow_suffix" js="0">შემატყობინე თუ იქნება პასუხები</word>
+  <word key="all_topics" js="0">ყველა</word>
+  <word key="open_topics" js="0">გახსნილი</word>
+  <word key="locked_topics" js="0">დახურული</word>
+  <word key="topics_i_started" js="0">ჩემი გახსნილი თემები</word>
+  <word key="topics_i_posted_in" js="0">თემები სადაც დავპოსტე</word>
+  <word key="answer_count" js="0">{# [1:პასუხი][?:პასუხი]} ამ კითხვაზე</word>
+  <word key="best_answers" js="0">საუკეთესო პასუხები</word>
+  <word key="create_new_topic" js="0">ახალი თემის შექმნა</word>
+  <word key="no_forum_posts" js="0">თემები ვერ მოიძებნა</word>
+  <word key="topic_pl" js="0">თემები</word>
+  <word key="topic_pl_lc" js="0">თემები</word>
+  <word key="post_pl" js="0">პოსტები</word>
+  <word key="post_pl_lc" js="0">პოსტები</word>
+  <word key="topic__comment_placeholder" js="0">თემაზე პასუხის გაცემა</word>
+  <word key="moderator_actions" js="0">მოდერატორის მოქმედებები</word>
+  <word key="create_topic_locked" js="0">თემის დახურვა</word>
+  <word key="create_topic_pinned" js="0">თემის აპინვა</word>
+  <word key="create_topic_hidden" js="0">თემის დამალვა</word>
+  <word key="create_topic_featured" js="0">თემის გამორჩევა</word>
+  <word key="forums_comments" js="0">{!# [1:პასუხი][?:პასუხი]} </word>
+  <word key="forums_num_views" js="0">{!# [1:ნახვა][?:ნახვა]}</word>
+  <word key="reply_to_topic" js="0">თემაზე პასუხის გაცემა</word>
+  <word key="new_posts" js="0">ახალი პოსტები ამ თემაში</word>
+  <word key="topic_create_state" js="0">დაპოსტვის შემდეგ...</word>
+  <word key="topic_moderator_options" js="0">მოდერატორი</word>
+  <word key="submit_topic" js="0">თემის დაპოსტვა</word>
+  <word key="submit_topic_edit" js="0">რედაქტირება</word>
+  <word key="topic_submit_comment" js="0">
+პასუხის განთავსება
+</word>
+  <word key="edit_topic" js="0">რედაქტირება</word>
+  <word key="go_back_to_forum" js="0">თემების სიაზე დაბრუნება</word>
+  <word key="count_topics_in_forum" js="0">{# [1:თემა][?:თემა] ამ ფორუმში}</word>
+  <word key="announce_forums" js="0">ფორუმი</word>
+  <word key="no_topics_in_forum" js="0">ამ სექციაში თემები არ არის</word>
+  <word key="submit_first_question" js="0">დასვით პირველი კითხვა</word>
+  <word key="submit_first_topic" js="0">გახსენით პირველი თემა.</word>
+  <word key="topic_locked_can_comment" js="0">თემაზე პასუხები გამორთულია, თუმცა თქვენი სტატუსი გაძლევთ ამ შეზღუდვის არიდების საშუალებას.</word>
+  <word key="topic_locked_cannot_comment" js="0">კომენტარების განთავსების ფუნქცია ამ თემაზე გათიშულია.</word>
+  <word key="popular_questions_title" js="0">წინა თვის პოპულარული კითხვები</word>
+  <word key="new_questions_title_no_answer" js="0">კითხვები პასუხების გარეშე</word>
+  <word key="new_questions_title_no_best" js="0">კითხვები საუკეთესო პასუხის გარეშე</word>
+  <word key="approve_title_topic" js="0">დაადასტურეთ თემა</word>
+  <word key="enter_password" js="0">შეიყვანეთ პაროლი.</word>
+  <word key="block_forumStatistics" js="0">ფორუმის სტატისტიკა</word>
+  <word key="total_topics" js="0">სულ თემები</word>
+  <word key="total_posts" js="0">სულ პოსტები</word>
+  <word key="block_latestTopics" js="0">ბოლო თემები</word>
+  <word key="block_hotTopics" js="0">ამჟამად პოპულარული</word>
+  <word key="block_featuredTopics" js="0">გამორჩეული თემები</word>
+  <word key="block_topicFeed" js="0">თემები</word>
+  <word key="block_postFeed" js="0">პოსტები</word>
+  <word key="digest_area_forums_topic" js="0">თემები</word>
+  <word key="digest_area_forums_forum" js="0">ფორუმები</word>
+  <word key="x_created_topic_in" js="0">%s შექმნა თემა %s სექციაში</word>
+  <word key="x_replied_to_a_topic" js="0">%s უპასუხა თემას</word>
+  <word key="loc_forums_index" js="0">ათვალიერებს მთავარ ფორუმს</word>
+  <word key="stats_new_topics" js="0">ახალი თემები</word>
+  <word key="stats_new_posts" js="0">ახალი პოსტები</word>
+  <word key="block_topicFeed_title" js="0">თემები</word>
+  <word key="block_postFeed_title" js="0">პოსტები</word>
+  <word key="block_poll" js="0">გამოკითხვა</word>
+  <word key="__api_forums_posts" js="0">პოსტები</word>
+  <word key="__api_forums_topics" js="0">თემები</word>
+  <word key="__api_forums_forums" js="0">Los Santos Stories</word>
+  <word key="app_forums" js="0">ფორუმი</word>
+  <word key="app_topics_title" js="0">თემები</word>
+  <word key="app_replace_best_answer_title" js="0">დადასტურება</word>
+  <word key="app_error_posting_topic" js="0">წარმოიქმნა პრობლემა თემის შექმნისას.</word>
+  <word key="app_error_posting_post" js="0">წარმოიქმნა პრობლემა პასუხის გაგზავნისას.</word>
+  <word key="app_topic_title" js="0">თემის სათაური</word>
+  <word key="app_topic_unacknowledged_warning_cannot_post" js="0">თქვენ გაფრთხილება მიიღეთ, რომელიც უნდა გააცნობიეროთ სანამ მასალას განათავსებთ.</word>
+  <word key="votes_no_number" js="1"> {!# [-1:ხმა][1:ხმა][?:ხმა]} </word>
+ </app>
+ <app key="nexus" version="">
+  <word key="__app_nexus" js="0">დონაცია</word>
+  <word key="security" js="0">უსაფრთხოება</word>
+  <word key="default_menu_item_support" js="0">დახმარება</word>
+  <word key="default_menu_item_my_details" js="0">ჩემი დეტალები</word>
+  <word key="__defart_support_request" js="0">დახმარების მოთხოვნა</word>
+  <word key="acp_search_title_nexus_Nexus" js="0">დონაცია</word>
+  <word key="gateways_gateway" js="0">გადახდის მეთოდი</word>
+  <word key="paypal_billing_agreements" js="0">*</word>
+  <word key="t_invoice" js="0">ინვოისი</word>
+  <word key="tstatus_okay" js="0">დადასტურებულია</word>
+  <word key="tstatus_okay_desc" js="0">ჩარიცხვა მიღებული და დადასტურებულია.</word>
+  <word key="tstatus_okay_credit" js="0">გადახდილია ანგარიშის ბალანსით</word>
+  <word key="tstatus_wait_desc" js="0">ჯერ გადახდა არ მომხდარა.</word>
+  <word key="transaction_approve" js="0">დადასტურება</word>
+  <word key="refund_invoice_paid" js="0">გადახდილი</word>
+  <word key="refund_invoice_pending" js="0">მოცდაზე</word>
+  <word key="refund_invoice_expired" js="0">ვადაგასული</word>
+  <word key="refund_invoice_canceled" js="0">გაუქმებული</word>
+  <word key="invoice_addresses" js="0">ინვოისის მისამართი</word>
+  <word key="mailsub__nexus_transactionApproved" js="0"><![CDATA[{$invoice->title|raw} შესყიდულია!]]></word>
+  <word key="mailsub__nexus_transactionWaiting" js="0"><![CDATA[{$invoice->title|raw}-ის ყიდვისთვის საჭიროა გადახდა]]></word>
+  <word key="mailsub__nexus_transactionHeld" js="0"><![CDATA[{$invoice->title|raw}-ის ყიდვისთვის საჭიროა გადახდა]]></word>
+  <word key="mailsub__nexus_transactionFailed" js="0"><![CDATA[გადახდა ჩაიშალა  {$invoice->title|raw}-თვის]]></word>
+  <word key="mailsub__nexus_transactionRefunded" js="0"><![CDATA[{$invoice->title|raw} აღდგენილია]]></word>
+  <word key="mailsub__nexus_transactionGatewayPending" js="0"><![CDATA[გადახდა მუშავდება {$invoice->title|raw}-თვის]]></word>
+  <word key="amount_refunded" js="0">აღდგენილი</word>
+  <word key="acplogs__currencies" js="0">დაარედაქტირა ვალუტები</word>
+  <word key="nexus_notify_copy_payment_received" js="0">გადახდა მიღებულია და დადასტურებულია.</word>
+  <word key="acplogs__transaction_review_settings" js="0">განაახლა ტრანზაქციის შემოწმების პარამეტრები</word>
+  <word key="i_status" js="0">სტატუსი</word>
+  <word key="invoice" js="0">ინვოისი</word>
+  <word key="invoice_view" js="0">ინვოისის ნახვა</word>
+  <word key="istatus_paid" js="0">გადახდილი</word>
+  <word key="istatus_paid_desc" js="0">გადახდილი</word>
+  <word key="istatus_pend" js="0">მოცდაზე</word>
+  <word key="istatus_expd" js="0">ვადაგასული</word>
+  <word key="istatus_canc" js="0">გაუქმებული</word>
+  <word key="istatus_canc_desc" js="0">გაუქმებული</word>
+  <word key="invoice_date" js="0">ინვოისის თარიღი</word>
+  <word key="invoice_paiddate" js="0">გადახდის თარიღი</word>
+  <word key="invoice_unit_price" js="0">ერთეული(ს) ფასი</word>
+  <word key="invoice_quantity" js="0">რაოდენობა</word>
+  <word key="invoice_mark_paid" js="0">გადახდილად მონიშვნა</word>
+  <word key="invoice_paid_trans_view" js="0">ტრანზაქციის ნახვა</word>
+  <word key="invoice_charge_to_credit" js="0">ანგარიშის კრედიტზე შეცვლა</word>
+  <word key="mailsub__nexus_newInvoice" js="0"><![CDATA[შეიქმნა ახალი ჩეკი (ინვოისი) #{$invoice->id} - {$status}]]></word>
+  <word key="mailsub__nexus_invoiceMarkedPaid" js="0"><![CDATA[ინვოისი #{$invoice->id} მოინიშნა გადახდილად]]></word>
+  <word key="mailsub__nexus_invoiceWarning" js="0">თქვენი შესყიდვა მალე გასანახლებელი გახდება.</word>
+  <word key="invoice_mailsub_paid" js="0">მონიშნული(ა) გადახდილად</word>
+  <word key="invoice_mailsub_pend" js="0">ელოდება გადახდას</word>
+  <word key="invoice_generate_items" js="0">შესყიდული „ნივთები“</word>
+  <word key="invoice_status" js="0">სტატუსი</word>
+  <word key="invoice_status_paid" js="0">გადახდილია</word>
+  <word key="invoice_status_pend" js="0">მოცდაზეა</word>
+  <word key="invoice_status_expd" js="0">ვადაგასულია</word>
+  <word key="invoice_status_canc" js="0">გაუქმებულია</word>
+  <word key="credit_amount" js="0">რაოდენობა</word>
+  <word key="invoice_products" js="0">პროდუქცია</word>
+  <word key="acplogs__invoice_settings" js="0">განაახლა ინვოისის პარამეტრები</word>
+  <word key="billing_agreement_details" js="0">გადახდის დეტალები</word>
+  <word key="address" js="0">მისამართი</word>
+  <word key="s_type_t" js="0">ინვოისის ჯამური თანხა</word>
+  <word key="o_invoice" js="0">ინვოისი</word>
+  <word key="add_card" js="0">ბარათის დამატება</word>
+  <word key="payment_method" js="0">აირჩიეთ გადახდის მეთოდი</word>
+  <word key="card_ccv" js="0">უსაფრთხოების კოდი</word>
+  <word key="do_you_have_coupon" js="0">ფასდაკლების პრომოკოდი ხომ არ გაქვთ?</word>
+  <word key="apply_coupon" js="0">პრომოკოდის გამოყენება</word>
+  <word key="subtotal" js="0">ჯამში</word>
+  <word key="cart_subtotal" js="0">ჯამში</word>
+  <word key="checkout_login" js="0">რეგისტრაცია ან შესვლა</word>
+  <word key="checkout_customer" js="0">თქვენი ინფორმაცია</word>
+  <word key="cm_first_name" js="0">სახელი</word>
+  <word key="cm_last_name" js="0">გვარი</word>
+  <word key="checkout_pay" js="0"><![CDATA[დადასტურება & ყიდვა]]></word>
+  <word key="split_payment_amount" js="0">რამდენის გადახდა გნებავთ?</word>
+  <word key="payment_received" js="0">გადახდა განხორციელდა.</word>
+  <word key="i_agree_to_tac" js="0">მე ვთანხმდები %s-ზე</word>
+  <word key="account_credit_with_amount" js="0">ანგარიშის ბალანსი (%s)</word>
+  <word key="account_credit_amount" js="0">თქვენ გაქვთ %s ბალანსზე.</word>
+  <word key="create_an_account" js="0">ანგარიშის შექმნა</word>
+  <word key="account_information" js="0">ანგარიშზე ინფორმაცია</word>
+  <word key="additional_information" js="0">დამატებითი ინფორმაცია</word>
+  <word key="coupon_code_invalid" js="0">ასეთი პრომოკოდი არ მოიძებნა.</word>
+  <word key="coupon_invalid_products" js="0">ამ შესყიდვაზე ეს პრომოკოდი არ მოქმედებს.</word>
+  <word key="coupon_not_in_group" js="0">თქვენ არ გაქვთ ამ პრომოკოდის გამოყენების უფლება.</word>
+  <word key="coupon_expired" js="0">პრომოკოდი ვადაგასულია.</word>
+  <word key="coupon_not_started" js="0">პრომოკოდი ჯერ არაა აქტიური.</word>
+  <word key="coupon_not_in_conjunction" js="0">პრომოკოდი %s არ შეიძლება გამოიყენოთ სხვა პრომოკოდებთან ერთად.</word>
+  <word key="continue_to_review" js="0">განაგრძეთ შეკვეთის გადახედვაზე</word>
+  <word key="order_review" js="0">შეკვეთის ინფორმაცია</word>
+  <word key="confirmation_sent_to" js="0">დადასტურების წერილი გაიგზავნება %s-ზე.</word>
+  <word key="confirm_and_pay" js="0">შეკვეთის განთავსება და გადახდა</word>
+  <word key="confirm_and_no_pay" js="0">მხოლოდ შეკვეთის განთავსება (გადახდა ახლა არა)</word>
+  <word key="confirm_and_pay_split" js="0">შეკვეთის განთავსება და %s-ს გადახდა</word>
+  <word key="order_thanks_blurb" js="0">გმადლობთ შეკვეთისთვის. მალე მიიღებთ ელ. ფოსტას დადასტურებისთვის.</word>
+  <word key="order_thanks_blurb_no_email" js="0">გმადლობთ შეკვეთისთვის.</word>
+  <word key="order_held_blurb2" js="0">როგორც კი შეკვეთის თანხა დაფიქსირდება ანდა შეკვეთა დადასტურდება მენეჯერის მიერ, მიიღებთ წერილს.</word>
+  <word key="order_processing_blurb2" js="0">როგორც კი შეკვეთის თანხა დაფიქსირდება ანდა შეკვეთა დადასტურდება მენეჯერის მიერ, მიიღებთ წერილს.</word>
+  <word key="order_wait_blurb" js="0">ახლა შეგიძლიათ ჩარიცხოთ თანხა ქვემოთ მოცემული ინსტრუქციის მიხედვით.</word>
+  <word key="order_wait_blurb2" js="0">როგორც კი შეკვეთის თანხა დაფიქსირდება ანდა შეკვეთა დადასტურდება მენეჯერის მიერ, მიიღებთ წერილს.</word>
+  <word key="order_fail_blurb" js="0">უკაცრავად, თქვენი ტრანზაქცია უარყოფილია ან გაუქმებულია.</word>
+  <word key="order_split_payment_success" js="0">გმადლობთ, გადასახდელის ნაწილი გადახდილია წარმატებით.</word>
+  <word key="order_split_payment_success2" js="0">დაბრუნდით გადახდის ზონაში რათა დაასრულოთ გადახდა.</word>
+  <word key="transaction_title_success" js="0">შესრულებულია</word>
+  <word key="transaction_title_waiting" js="0"><![CDATA[შეკვეთა მიღებულია, ელოდება ჩარიცხვას & დადასტურებას]]></word>
+  <word key="transaction_title_refused" js="0">გადახდის პრობლემა</word>
+  <word key="payment_details" js="0">გადახდის დეტალები</word>
+  <word key="try_another_payment" js="0">სცადე თავიდან გადახდა</word>
+  <word key="split_payment" js="0">გაყოფილი გადახდა</word>
+  <word key="manage_orders_in_billing" js="0"><![CDATA[თქვენ შეგიძლიათ მართოთ <a href='{internal.app=nexus&module=clients&controller=invoices}'>შეკვეთები აქედან</a>]]></word>
+  <word key="return_to_checkout" js="0">გადახდის ზონაში დაბრუნება</word>
+  <word key="renewals_header" js="0">განახლება თვიურად</word>
+  <word key="total_due_on" js="0">პაკეტის განახლება მოგიწევთ: %s</word>
+  <word key="f_customer_reg_suffix" js="0">დღის წინ</word>
+  <word key="f_last_okay_trans_suffix" js="0">დღის წინ</word>
+  <word key="customerTable_cm_first_name" js="0">სახელი</word>
+  <word key="customerTable_cm_last_name" js="0">გვარი</word>
+  <word key="customerTable_email" js="0">ელ. ფოსტა</word>
+  <word key="customerTable_name" js="0">მომხმარებლის სახელი</word>
+  <word key="customerTable_cm_phone" js="0">ტელეფონის ნომერი</word>
+  <word key="account_credit" js="0">ანგარიშის ბალანსი</word>
+  <word key="account_credit_increase" js="0">ანგარიშის ბალანსის მომატება</word>
+  <word key="account_credit_remove_neg" js="0">ეს მომხმარებლის ბალანსს უარყოფითს გახდის.</word>
+  <word key="altcontactTable_purchases" js="0">შესყიდვები</word>
+  <word key="customer_history" js="0">ისტორია</word>
+  <word key="customer_edit_member" js="0">ანგარიშის რედაქტირება</word>
+  <word key="customer_new_request" js="0">ახალი დახმარების მოთხოვნა</word>
+  <word key="account_items" js="0">ანგარიშის ნივთები</word>
+  <word key="add_invoice" js="0">ინვოისის დამატება</word>
+  <word key="customer_field_registration" js="0">რეგისტრაცია</word>
+  <word key="customer_field_purchase" js="0">შესყიდვა</word>
+  <word key="history_transaction_status_okay" js="0">დადასტურებულია</word>
+  <word key="history_transaction_status_pend" js="0">ელოდება გადახდას</word>
+  <word key="history_transaction_status_wait" js="0">ელოდება გადახდას</word>
+  <word key="history_transaction_status_revw" js="0">მონიშნულია გადასახედად</word>
+  <word key="history_transaction_status_fail" js="0">უარყოფილია</word>
+  <word key="cancel_type_cancel" js="0">გაუქმება</word>
+  <word key="view_original_invoice" js="0">ორიგინალი ინვოისის ნახვა</word>
+  <word key="account_credit_settings" js="0">მომხმარებლის ბალანსის პარამეტრები</word>
+  <word key="payout__data_Manual" js="0">გადახდის დეტალები</word>
+  <word key="r__invoices" js="0">ინვოისები</word>
+  <word key="menu__nexus_support" js="0">დახმარება</word>
+  <word key="support_container" js="0">დეპარტამენტი</word>
+  <word key="module__nexus_support" js="0">დახმარება</word>
+  <word key="support_submit_comment" js="0">პასუხის განთავსება
+</word>
+  <word key="new_request" js="0">ახალი მოთხოვნა</word>
+  <word key="support_info_customer" js="0">კლიენტი</word>
+  <word key="support_info_invoices" js="0">ინვოისები</word>
+  <word key="your_support_requests" js="0">თქვენი დახმარების მოთხოვნები</word>
+  <word key="create_new_request" js="0">ახალი მოთხოვნის შექმნა</word>
+  <word key="menu__nexus_support_settings" js="0">პარამეტრები</word>
+  <word key="dpt_email" js="0">ელ. ფოსტა</word>
+  <word key="support_department" js="0">დეპარტამენტი</word>
+  <word key="support_purchase" js="0">ყიდვა</word>
+  <word key="create_new_request_autoresolve" js="0">ახალი დახმარების მოთხოვნა</word>
+  <word key="action_name" js="0">სახელი</word>
+  <word key="action_status" js="0">სტატუსის დაყენება</word>
+  <word key="action_staff" js="0">მიბმა</word>
+  <word key="action_message" js="0">პასუხი</word>
+  <word key="acplogs__outgoingemail_settings" js="0">განაახლა გამსვლელი ელ. ფოსტის მისამართი</word>
+  <word key="customer_feedback" js="0">მომხმარებლის გამოხმარურება</word>
+  <word key="acplogs__customerfeedback_settings" js="0">დაარედაქტირა ფიდბექის პარამეტრები</word>
+  <word key="ie_back" js="0">აირჩიეთ განსხვავებული მეთოდი</word>
+  <word key="pop3_password" js="0">პაროლი</word>
+  <word key="menu__nexus_support_requests" js="0">დახმარების მოთხოვნები</word>
+  <word key="add_note" js="0">ჩანაწერის დამატება</word>
+  <word key="support_first_message" js="0">პირველი წერილი</word>
+  <word key="support_history_resolved" js="0">განხილულია</word>
+  <word key="support_history_assigned_1" js="0">დანიშნული</word>
+  <word key="support_history_department_1" js="0">გადატანილი</word>
+  <word key="support_history_split_new_1" js="0">შექმნილია</word>
+  <word key="support_history_prev_day" js="0">წინა დღე</word>
+  <word key="support_history_next_day" js="0">შემდეგი დღე</word>
+  <word key="request_owner_email" js="0">ელ. ფოსტა</word>
+  <word key="create_support_request" js="0">ახალი დახმარების მოთხოვნა</word>
+  <word key="staffnotify_reply_header" js="0">%s უპასუხა დახმარების მოთხოვნას.</word>
+  <word key="mailsub__nexus_staffAssignedReminder" js="0">მონიჭებული დახმარების მოთხოვნები</word>
+  <word key="weekday_0" js="0">კვირა</word>
+  <word key="weekday_1" js="0">ორშაბათი</word>
+  <word key="weekday_2" js="0">სამშაბათი</word>
+  <word key="weekday_3" js="0">ოთხშაბათი</word>
+  <word key="weekday_4" js="0">ხუთშაბათი</word>
+  <word key="weekday_5" js="0">პარასკევი</word>
+  <word key="weekday_6" js="0">შაბათი</word>
+  <word key="menu__nexus_support_volume" js="0">ახალი დახმარების მოთხოვნები</word>
+  <word key="menu__nexus_store" js="0">მაღაზია</word>
+  <word key="menu__nexus_store_packages" js="0">პროდუქტები</word>
+  <word key="lkey_identifier_username" js="0">კლიენტის მომხმარებლის სახელი</word>
+  <word key="p_methods" js="0">გადახდის მეთოდები</word>
+  <word key="module__nexus_store" js="0">მაღაზია</word>
+  <word key="add_to_cart" js="0">საყიდლად მომზადება</word>
+  <word key="err_group_cant_purchase" js="0">%s არ არის ხელმისაწვდომი თქვენი აქაუნთისთვის.</word>
+  <word key="checkout" js="0">ყიდვა</word>
+  <word key="continue_shopping" js="0">შოპინგის გაგრძელება</word>
+  <word key="quantity" js="0">რაოდენობა</word>
+  <word key="store" js="0">მაღაზია</word>
+  <word key="new_products" js="0">ახალი პროდუქტები</word>
+  <word key="store_credit_message" js="0"><![CDATA[თქვენ გაქვთ <strong>%s</strong> ბალანსზე, რომელიც დაიხარჯება თქვენს მომდევნო შესყიდვებზე.]]></word>
+  <word key="add_and_choose_options" js="0">პარამეტრის არჩევა</word>
+  <word key="your_cart" js="0">თქვენი კალათა</word>
+  <word key="remove_from_cart" js="0">კალათიდან წაშლა</word>
+  <word key="change_quantity" js="0">შეცვლა</word>
+  <word key="add_new_address" js="0">ახალი მისამართის დამატება</word>
+  <word key="menu__nexus_store_settings" js="0">პარამეტრები</word>
+  <word key="nexus_store_prices" js="0">ფასები</word>
+  <word key="nexus_store_new" js="0">ახალი პროდუქტები</word>
+  <word key="client_purchases" js="0">კალათის მენეჯერი</word>
+  <word key="client_area_my_details" js="0">ჩემი დეტალები</word>
+  <word key="client_invoices" js="0">შეკვეთები</word>
+  <word key="commerce_get_support" js="0">დახმარების მიღება</word>
+  <word key="client_credit" js="0">ანგარიშის ბალანსი</word>
+  <word key="client_info" js="0">პერსონალური ინფორმაცია</word>
+  <word key="address_book" js="0">მისამართების წიგნაკი</word>
+  <word key="address_add" js="0">მისამართის დამატება</word>
+  <word key="altcontact_email" js="0">ელ. ფოსტა</word>
+  <word key="credit_title" js="0">ანგარიშის ბალანსი</word>
+  <word key="credit_balance" js="0">ანგარიშის ბალანსი</word>
+  <word key="credit_add" js="0">ბალანსის შევსება</word>
+  <word key="credit_add_title" js="0">შეივსეთ ბალანსი ანგარიშზე.</word>
+  <word key="orders_title" js="0">შენი შეკვეთები</word>
+  <word key="orders_cancel" js="0">ინვოისის გაუქმება</word>
+  <word key="orders_cancel_title" js="0">ინვოისის ახლავე გაუქმება</word>
+  <word key="order_invoice_print" js="0">ინვოისის დასაბეჭდი ვერსია</word>
+  <word key="order_pay_now" js="0">გადახდა</word>
+  <word key="order_pay_now_title" js="0">გადახდაზე გადასვლა</word>
+  <word key="order_invoice_paid" js="0">გმადლობთ შესყიდვისთვის.</word>
+  <word key="order_view_payment" js="0">იხილეტ გადახდის დეტალები</word>
+  <word key="order_payment_details" js="0">გადახდის დეტალები</word>
+  <word key="order_details" js="0">შეკვეთის დეტალები</word>
+  <word key="purchase_renew_now" js="0">ახლავე განახლება</word>
+  <word key="purchase_cancel_renewal" js="0">აღარ მსურს განახლება</word>
+  <word key="coupon" js="0">პრომოკოდი</word>
+  <word key="coupon_basic_settings" js="0">პრომოკოდის პარამეტრები</word>
+  <word key="coupon_restrictions" js="0">შეზღუდვები</word>
+  <word key="coupon_products" js="0">ნივთები</word>
+  <word key="c_unit" js="0">ტიპი</word>
+  <word key="c_discount_p" js="0">ფასდაკლება</word>
+  <word key="c_discount_v" js="0">ფასდაკლება</word>
+  <word key="c_products" js="0">პროდუქტები</word>
+  <word key="d_current" js="0">ამ ეტაპზე შეგროვებულია</word>
+  <word key="donate" js="0">დონაცია</word>
+  <word key="donate_amount" js="0">თანხა, რომლის დადონატება გსურთ</word>
+  <word key="donate_to_goal" js="0">ჩარიცხეთ თანხა კონკრეტული მიზნით</word>
+  <word key="epc_quantity" js="0">რაოდენობა</word>
+  <word key="account_server" js="0">სერვერი</word>
+  <word key="account_username" js="0">მომხმარებლის სახელი</word>
+  <word key="account_password" js="0">პაროლი</word>
+  <word key="advertisement" js="0">რეკლამა</word>
+  <word key="advertisement_url" js="0">მიმართულების URL</word>
+  <word key="advertisement_image" js="0">სურათი</word>
+  <word key="active_purchases" js="0">მიმდინარე შესყიდვები</word>
+  <word key="open_support_requests" js="0">დახმარების მოთხოვნები</word>
+  <word key="email_thanks_for_order" js="0">%s მადლობას გიხდით შესყიდვისთვის. თქვენი გადახდა დადასტურდა და პროდუქტი გადმოგეცემათ რაც შეიძლება მალე.</word>
+  <word key="email_transaction_failed" js="0">სამწუხაროდ, წარმოიშვა პრობლემა გადახდისას. გთხოვთ გადახედოთ თქვენს შეკვეთას ან სცადოთ თავიდან გადახდა ქვემოთ მოცემული ღილაკით.</word>
+  <word key="email_transaction_waiting" js="0">%s მადლობას გიხდით შესყიდვის სურვილისთვის. თქვენი შეკვეთა ელოდება გადახდას. როგორც კი გადახდა დაფიქსირდება, მოგწერთ ელ. ფოსტაზე.</word>
+  <word key="email_view_order" js="0">იხილეთ შეკვეთა</word>
+  <word key="email_pay_now" js="0">გადახდა</word>
+  <word key="email_payment_method" js="0">მეთოდი</word>
+  <word key="email_new_invoice" js="0">თქვენზე გამოიწერა ახალი ინვოისი.</word>
+  <word key="email_expire_warning" js="0">მალე თქვენს ვადიან შესყიდვას (პაკეტს) ვადა გასდის.</word>
+  <word key="email_expire_warning_credit" js="0">თქვენს ბალანსზე ირიცხება %s, ამიტომ მას გამოვიყენებთ გასანახლებლად. თუ არ გეყოფათ, დარჩენილი გადასახდელის შესახებ მოგწერთ.</word>
+  <word key="email_expiring_soon" js="0">თითქმის ვადაამოწურული პროდუქცია</word>
+  <word key="email_renewal_cost" js="0">განახლების ფასი</word>
+  <word key="email_card_on_file" js="0">გადახდის მეთოდი</word>
+  <word key="email_paymethod_account" js="0">ანგარიში</word>
+  <word key="emailtpl_newInvoice" js="0">ახალი ინვოისი</word>
+  <word key="emailtpl_invoiceMarkedPaid" js="0">ინვოისი მოინიშნა გადახდილად.</word>
+  <word key="block_featuredProduct" js="0">გამორჩეული ნივთები</word>
+  <word key="frontnavigation_support" js="0">დახმარება</word>
+  <word key="__api_nexus_invoices" js="0">ინვოისები</word>
+  <word key="__api_nexus_transactions" js="0">ტრანზაქციები</word>
+  <word key="__api_nexus_purchases" js="0">შესყიდვები</word>
+  <word key="__api_nexus_supportrequests" js="0">დახმარების მოთხოვნები</word>
+  <word key="__api_nexus_supportreplies" js="0">დამხმარის პასუხები</word>
+  <word key="log_type_title_subscription" js="0">პაკეტები</word>
+  <word key="menu__nexus_subscriptions" js="0">პაკეტები</word>
+  <word key="menu__nexus_subscriptions_subscriptions" js="0">პაკეტები</word>
+  <word key="menu__nexus_subscriptions_subscribers" js="0">პაკეტის მყიდველები</word>
+  <word key="r__subscriptions" js="0">პაკეტები</word>
+  <word key="nexus_subscriptions" js="0">პაკეტები</word>
+  <word key="acplog__subscription_settings" js="0">გააქტიურა პაკეტები</word>
+  <word key="nexus_subs_widget_title" js="0">ხელმისაწვდომი პაკეტები</word>
+  <word key="nexus_sub_member_id" js="0">მომხმარებლის სახელი</word>
+  <word key="nexus_name" js="0">მომხმარებლის სახელი</word>
+  <word key="module__nexus_subscriptions" js="0">პაკეტები</word>
+  <word key="nexus_front_subscriptions" js="0">პაკეტები</word>
+  <word key="nexus_subs_buy" js="0">ახლავე ყიდვა!</word>
+  <word key="nexus_subs_subscribed_expired" js="0">თქვენს პაკეტს გაუვიდა ვადა.</word>
+  <word key="nexus_subs_cancel" js="0">პაკეტის გაუქმება</word>
+  <word key="nexus_sub_cancel_type_immediate_desc" js="0">გაუქმება ახლავე ასრულებს მიმდინარე პაკეტს.</word>
+  <word key="nexus_sub_cancel_now_desc" js="0">გაუქმება ახლავე ასრულებს მიმდინარე პაკეტს.</word>
+  <word key="nexus_subs_show_all_subs" js="0">იხილეთ ყველა პაკეტი.</word>
+  <word key="block_subscriptions" js="0">მომხმარებლის პაკეტები</word>
+  <word key="nexus_require_billing_subscriptions" js="0">მომხმარებლის პაკეტები</word>
+  <word key="nexus_subs_paid_flash_msg" js="0">მადლობა შესყიდვისთვის, თქვენ გადმოგეცათ შესყიდული სტატუსი!</word>
+  <word key="mailsub__nexus_acp_notification_Transaction" js="0"><![CDATA[ტრანზაქცია #{$transaction->name|raw} ელოდება მოქმედებას]]></word>
+  <word key="acp_notification_Support" js="0">გახსენით დახმარების მოთხოვნები</word>
+  <word key="emailstats__invoiceMarkedPaid" js="0">ინვოისი მოინიშნა გადახდილად.</word>
+  <word key="add_to_cart_js" js="1">საყიდლად მომზადება</word>
+ </app>
+ <app key="downloads" version="">
+  <word key="__app_downloads" js="0">ფაილები</word>
+  <word key="frontnavigation_downloads" js="0">ფაილები</word>
+  <word key="module__downloads_downloads" js="0">ფაილები</word>
+  <word key="module__downloads_stats" js="0">სტატისტიკა</word>
+  <word key="downloads_file" js="0">ფაილი</word>
+  <word key="category_moderation" js="0">მოდერაცია</word>
+  <word key="category_logs" js="0">ლოგები</word>
+  <word key="category_forums_integration" js="0">ფორუმის თემები</word>
+  <word key="view_all_files" js="0">ყველა ფაილების ნახვა</word>
+  <word key="modperms__core_Content_downloads_File" js="0">ფაილები</word>
+  <word key="group__downloads_Downloads" js="0">ფაილები</word>
+  <word key="submit_a_file" js="0">ფაილის დამატება</word>
+  <word key="file_auto_follow_suffix" js="0">შემატყობინეთ როდესაც ახალი კომენტარები დაიპოსტება</word>
+  <word key="dl_get_support" js="0">დახმარების მიღება</word>
+  <word key="file_information" js="0">ფაილის ინფორმაცია</word>
+  <word key="file_submitted" js="0">დამატდა</word>
+  <word key="file_version" js="0">ვერსიის ნომერი</word>
+  <word key="file_desc" js="0">ფაილის შესახებ</word>
+  <word key="download_now" js="0">გადმოწერა</word>
+  <word key="report_file" js="0">ამ ფაილის გასაჩივრება</word>
+  <word key="agree_and_download" js="0">დათანხმება და გადმოწერა</word>
+  <word key="agree_and_download_full" js="0">დაეთანხმეთ ზემოთ მოცმეულ წესებს და გადმოიწერეთ ფაილი</word>
+  <word key="agree_and_purchase" js="0">დათანხმება და შესყიდვა</word>
+  <word key="filesize" js="0">ფაილის ზომა</word>
+  <word key="change_author_d" js="0">ავტორის შეცვლა</word>
+  <word key="approve_title_file" js="0">დაადასტურეთ ფაილი</word>
+  <word key="find_users_files" js="0">იპოვეთ მათი სხვა ფაილები</word>
+  <word key="browse_whats_new" js="0">რა არის ახალი</word>
+  <word key="browse_highest_rated" js="0">საუკეთესო შეფასება</word>
+  <word key="browse_most_downloaded" js="0">ყველაზე მეტად გადმოწერილი</word>
+  <word key="no_new_files" js="0">ჯერჯერობით ცარიელია.</word>
+  <word key="no_downloaded_files" js="0">ჯერჯერობით არაფერი არ არის გადმოწერილი.</word>
+  <word key="submit_form_desc_bulk" js="0"><![CDATA[ფაილების დამატება " <em>%s</em> " სექციაში]]></word>
+  <word key="select_your_files" js="0">აირჩიეთ თქვენი ფაილი</word>
+  <word key="add_screenshots" js="0">დაამატე მედია</word>
+  <word key="submit_file_information" js="0">ფაილის ინფორმაცია</word>
+  <word key="save_and_submit_files" js="0">ფაილის დამატება</word>
+  <word key="upload_more_files" js="0">მეტი ფაილების დამატება</word>
+  <word key="downloads_file_info" js="0">ფაილები</word>
+  <word key="menu__downloads_stats_downloads" js="0">ფაილები</word>
+  <word key="ipAddresses__downloads_DownloadLog" js="0">ფაილები</word>
+  <word key="x_created_file_in" js="0">%s 'მა ატვირთა ფაილი.</word>
+  <word key="idm_nexus_gateways" js="0">გადახდის მეთოდები</word>
+  <word key="buy_now" js="0">ახლავე ყიდვა</word>
+  <word key="notifications__downloads_Files" js="0">ფაილები</word>
+  <word key="__api_downloads_files" js="0">ფაილები</word>
+  <word key="__api_downloads_comments" js="0">კომენტარები</word>
+  <word key="__api_downloads_reviews" js="0">შეფასებები</word>
+  <word key="__api_downloads_categories" js="0">კატეგორიები</word>
+ </app>
+ <app key="gallery" version="">
+  <word key="__app_gallery" js="0">გალერია</word>
+  <word key="albums" js="0">ალბომები</word>
+  <word key="album_description" js="0">აღწერა</word>
+  <word key="album_category" js="0">კატეგორია</word>
+  <word key="album_private_badge" js="0">პირადი ალბომი</word>
+  <word key="album_submit_access_members" js="0">დაშვებული წევრები</word>
+  <word key="album_submit_access_groups" js="0">დაშვებული ჯგუფები</word>
+  <word key="album_allowed_access" js="0">მომხმარებლები წვდომით</word>
+  <word key="bdate" js="0">თარიღი</word>
+  <word key="bsize" js="0">ფოტოს ზომა</word>
+  <word key="add_gallery_image" js="0">ფოტოების დამატება</word>
+  <word key="album_latest_images" js="0">უახლესი ფოტოები</word>
+  <word key="approve_title_image" js="0">დაადასტურეთ ფოტო</word>
+  <word key="approve_title_album" js="0">დაადასტურეთ ალბომი</word>
+  <word key="album_locked_cannot_comment" js="0">ალბომი დახურულია კომენტარებისგან.</word>
+  <word key="album_create_owner" js="0">მფლობელობა</word>
+  <word key="album_full" js="0">ალბომი სავსეა</word>
+  <word key="__api_gallery_albums" js="0">ალბომები</word>
+  <word key="__api_gallery_images" js="0">სურათები</word>
+  <word key="__api_gallery_comments" js="0">კომენტარები</word>
+  <word key="__api_gallery_reviews" js="0">შეფასებები</word>
+  <word key="__api_gallery_categories" js="0">კატეგორიები</word>
+ </app>
+ <app key="convert" version="">
+  <word key="_convert_settings" js="0">პარამეტრები</word>
+  <word key="reconfigure" js="0">კონფიგურაციის შეცვლა</word>
+  <word key="_convert_members" js="0">წევრები</word>
+  <word key="display_name" js="0">მომხმარებლის სახელი</word>
+  <word key="_convert_announcements" js="0">განცხადებები</word>
+  <word key="_convert_warn_reasons" js="0">გაფრთხილების მიზეზები</word>
+  <word key="_convert_moderators" js="0">მოდერატორები</word>
+  <word key="_convert_forums_topics" js="0">თემები</word>
+  <word key="_convert_nexus_transactions" js="0">ტრანზაქციები</word>
+ </app>
+</language>
